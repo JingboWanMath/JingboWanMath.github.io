@@ -1,0 +1,12 @@
+---
+title: "Axially Symmetric Solution of the Teukolsky System in Very Slowly Rotating and Strongly Charged Sub-Extremal Kerr-Newman Spacetime"
+collection: talks
+type: "Talk"
+#permalink: /talks/2024-7-16-Axially Symmetric-Solution-of-the-Teukolsky-System-in-Very-Slowly-Rotating-and-Strongly-Charged-Sub-Extremal-Kerr-Newman-Spacetime
+venue: "[Oberseminar Topics in General Relativity](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10138&brettid=48)"
+date: 2024-7-16
+location: "Muenster Univerity"
+---
+
+We establish boundedness and polynomial decay results for the Teukolsky system in the exterior spacetime of very slowly rotating and strongly charged sub-extremal Kerr-Newman black holes, with a focus on axially symmetric solutions. The key step in achieving these results is deriving a physical-space Morawetz estimate for the associated generalized Regge-Wheeler system, without relying on spherical harmonic decomposition. This is based on a joint work with Elena Giorgi.
+References: [(Joint with Elena Giorgi) Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case |a| << M, |Q| < M in Axial Symmetry, arXiv preprint arXiv:2407.10750 (2024)]
