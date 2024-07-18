@@ -5,7 +5,7 @@ type: "Talk"
 #permalink: /talks/2024-3-6-Rigidity-of-Area-Non-Increasing-Maps
 venue: "[BIMCR geometric analysis seminar](https://bicmr.pku.edu.cn/cn/content/show/43-3239.html)"
 date: 2024-3-19
-location: "Columbia University"
+location: "BIMCR, online"
 ---
 
 In this talk, we discuss the approach of Mean Curvature Flow to demonstrate that area non-increasing maps between certain positively curved closed manifolds are rigid. Specifically, this implies that an area non-increasing self-map of $\mathbb{CP}^n$, is either homotopically trivial or is an isometry, answering a question by Tsai-Tsui-Wang. Moreover, by coupling the Mean Curvature Flow for the graph of a map with Ricci Flows for the domain and the target, we can also study the rigidity of area non-increasing maps from closed manifolds with positive 1-isotropic curvature (PIC1) to closed Einstein manifolds, where Prof. Brendle's PIC1 Sphere Theorem is applied. The key to studying the rigidity of area non-increasing maps under various curvature conditions lies in the application of the Strong Maximum Principle along the MCF/MCF-RF. We will focus our attention on one particular case to illustrate the SMP argument. This is a joint work with Professor Man-Chun Lee and Professor Luen-Fai Tam from CUHK.
