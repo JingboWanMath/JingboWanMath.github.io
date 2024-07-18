@@ -1,0 +1,12 @@
+---
+title: "The Dirichlet Problem for Concave Equations"
+collection: talks
+type: "Talk"
+#permalink: /talks/2024-3-19-The-Dirichlet-Problem-for-Concave-Equations
+venue: "[Student Geometric & Analysis Seminar (Spring 2024)](https://math.columbia.edu/~ypharry/seminar/ma)"
+date: 2024-3-19
+location: "Columbia University"
+---
+
+In this talk, we continue our discussion of the concave equation $F(D^2u)=0$, focusing on its Dirichlet Problem. We first note that the standard Schauder estimate enables us to demonstrate that interior/global $C^{2,\alpha}$ solutions are indeed interior/global smooth. (No concavity is necessary in this "bootstrap" process.) Next, we establish the $C^{2,\alpha}$ estimate up to the boundary, progressing step by step ($C^0$, $C^1$, $C^2$, $C^{2,\alpha}$). The main technique at each step is selecting appropriate test functions and applying the Maximum Principle. Finally, we use everything we have discussed (uniqueness and regularity) along with the method of continuity to solve the Dirichlet problem.
+References: [Caffarelli-Cabre Fully Nonlinear Elliptic Equations]
