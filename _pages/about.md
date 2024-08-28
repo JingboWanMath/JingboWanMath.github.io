@@ -9,7 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I am a fourth year graduate student at Columbia University, supervised by both [Professor Mu-Tao Wang](http://www.math.columbia.edu/~mtwang/) and [Professor Elena Giorgi](http://www.math.columbia.edu/~egiorgi/). I was an undergraduate student in Hong Kong University of Science and technology, supervised by [Professor Frederick Fong](https://frederickfong.me).
+🧑‍🎓 I am a fifth year graduate student at Columbia University, supervised by both [Professor Mu-Tao Wang](http://www.math.columbia.edu/~mtwang/) and [Professor Elena Giorgi](http://www.math.columbia.edu/~egiorgi/). 
+
+🙋 I am on job market in 2024 fall.
+    
+🏫 I was an undergraduate student in Hong Kong University of Science and technology, supervised by [Professor Frederick Fong](https://frederickfong.me).
 
 
 More about me
