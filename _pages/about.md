@@ -23,7 +23,7 @@ More about me
 
 📃 So far, my appeared works are about positive curved manifolds, parabolic geometric/heat flows or hyperbolic equations on blackholes:
 
-   1. (Joint with Elena Giorgi) "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case |a| << M, |Q| < M in Axial Symmetry," preprint.
+   1. (Joint with Elena Giorgi) "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case |a|<< M, |Q| < M in Axial Symmetry," preprint.
    2. "Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension," submitted.
    3. (Joint with Man-Chun Lee and Luen-Fai Tam) "Rigidity of Area Non-Increasing Maps," submitted.
    4. (Joint with Man-Chun Lee) "Rigidity of Contracting Map Using Harmonic Map Heat Flow," submitted.
