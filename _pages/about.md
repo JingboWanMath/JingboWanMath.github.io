@@ -23,7 +23,7 @@ More about me
 
 📃 So far, my appeared works are about positive curved manifolds, parabolic geometric/heat flows or hyperbolic equations on blackholes:
 
-   1. (Joint with Elena Giorgi) "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case |a|<< M, |Q| < M in Axial Symmetry," preprint.
+   1. (Joint with Elena Giorgi) "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case $|a|<< M, |Q| < M$ in Axial Symmetry," preprint.
    2. "Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension," submitted.
    3. (Joint with Man-Chun Lee and Luen-Fai Tam) "Rigidity of Area Non-Increasing Maps," submitted.
    4. (Joint with Man-Chun Lee) "Rigidity of Contracting Map Using Harmonic Map Heat Flow," submitted.
@@ -47,31 +47,19 @@ More about me
 
 🗣️ For invited talks, here is a list of events or seminars:
 
-     Mathematical GR and Hyperbolic PDE Seminar - Virtual, Sep 2024
-     
-     Harmonic Analysis and Differential Equations Seminar - UC Berkeley, Sep 2024
-     
-     Mini-workshop in Geometric Analysis - SUSTech, Aug 2024
-     
-     Seminar ON Pure Mathematics - HKUST, Aug 2024
-     
-     Topics in General Relativity at Mathematics Munster - Munster University, Jul 2024
-     
-     Westlake University Geometric Analysis Seminar - Westlake University, online, Apr 2024
-     
-     BIMCR Geometric Analysis Seminar - BIMCR, online, Mar 2024
-     
-     CUNY Geometric Analysis Seminar - CUNY Graduate Center, Sep 2023
-     
-     Geometric Analysis Seminar - The Chinese University of Hong Kong, Aug 2023
-     
-     Seminar ON Pure Mathematics - HKUST, Aug 2023
-     
-     MIST 2023 Workshop on Geometry - The Chinese University of Hong Kong, Aug 2023
-     
-     Joint Geometric Analysis Seminar - The Chinese University of Hong Kong, Jun 2023
-     
-     Columbia General Relativity & Geometric Analysis Seminar - Columbia University, Oct 2022
+  Mathematical GR and Hyperbolic PDE Seminar - Virtual, Sep 2024
+  Harmonic Analysis and Differential Equations Seminar - UC Berkeley, Sep 2024
+  Mini-workshop in Geometric Analysis - SUSTech, Aug 2024
+  Seminar ON Pure Mathematics - HKUST, Aug 2024
+  Topics in General Relativity at Mathematics Munster - Munster University, Jul 2024
+  Westlake University Geometric Analysis Seminar - Westlake University, online, Apr 2024
+  BIMCR Geometric Analysis Seminar - BIMCR, online, Mar 2024
+  CUNY Geometric Analysis Seminar - CUNY Graduate Center, Sep 2023
+  Geometric Analysis Seminar - The Chinese University of Hong Kong, Aug 2023
+  Seminar ON Pure Mathematics - HKUST, Aug 2023
+  MIST 2023 Workshop on Geometry - The Chinese University of Hong Kong, Aug 2023
+  Joint Geometric Analysis Seminar - The Chinese University of Hong Kong, Jun 2023
+  Columbia General Relativity & Geometric Analysis Seminar - Columbia University, Oct 2022
 
    Invited lectures:
      Short course in semi-linear wave equation on blackholes - The Chinese University of Hong Kong, Aug 2023
