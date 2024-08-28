@@ -34,9 +34,10 @@ redirect_from:
    See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/) for more details.
 
 🧑‍🏫 For __seminars and talks__, I co-organized several student seminars in Columbia University: 
-  
-- Fall2021   [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/)
-- Spring2022 [Scalar Curvature and dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html)
+
+- Fall2021   [Informal student GR seminar, over zoom] 
+- Fall2022   [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/)
+- Spring2023 [Scalar Curvature and dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html)
 - Fall2023   [Geometric Flows and their applications](http://math.columbia.edu/~ypharry/seminar/mcf)
 - Spring2024 [Regularity Theory of the Monge-Ampère Equation](https://www.math.columbia.edu/~ypharry/seminar/ma)
 - Fall2024   [BV Functions & Regularity of the Minimal Surface](https://www.math.columbia.edu/~jingbowan/StudentPDEfall2024)
