@@ -65,10 +65,10 @@ redirect_from:
 
 # Useful Links
 
-  * [Professor Mu-Tao Wang's personal website](http://www.math.columbia.edu/~mtwang/)
-  * [Professor Elena Giorgi's personal website](http://www.math.columbia.edu/~egiorgi/)
-  * [Professor Simon Brendle's personal website](http://www.columbia.edu/~sab2280/main.html)
-  * [Professor Frederick Fong's personal website](https://frederickfong.me)
-  * [Professor Man-Chun Lee's personal website](https://sites.google.com/view/mcleemath/home?pli=1&authuser=1)
-  * [Tsz-Kiu Aaron Chow's personal website](https://math.columbia.edu/~achow/)
+  * [Prof. Mu-Tao Wang's personal website](http://www.math.columbia.edu/~mtwang/)
+  * [Prof. Elena Giorgi's personal website](http://www.math.columbia.edu/~egiorgi/)
+  * [Prof. Simon Brendle's personal website](http://www.columbia.edu/~sab2280/main.html)
+  * [Prof. Frederick Fong's personal website](https://frederickfong.me)
+  * [Prof. Man-Chun Lee's personal website](https://sites.google.com/view/mcleemath/home?pli=1&authuser=1)
+  * [Dr. Tsz-Kiu Aaron Chow's personal website](https://math.columbia.edu/~achow/)
   ...
