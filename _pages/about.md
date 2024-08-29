@@ -30,8 +30,9 @@ redirect_from:
    5. (Joint with Elena Giorgi) "Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime," submitted.
    6. (Joint with Florian Johne and Tsz-Kiu Aaron Chow) "Preserving Positive Intermediate Curvature," J Geom Anal 33, 366 (2023).
    7. (Joint with Nicholas Cheng-Hoong Chin and Frederick Tsz-Ho Fong) "Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows," Proc. Amer. Math. Soc. 148 (2020), 4967-4982.
-
-   See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/) for more details.
+   
+   
+      See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/) for more details.
 
 🧑‍🏫 For __seminars and talks__, I co-organized several student seminars in Columbia University: 
 
