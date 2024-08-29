@@ -4,18 +4,14 @@ collection: talks
 type: "Talk"
 #permalink: /talks/2023-8-11-Short-course-in-semi-linear-wave-equation-in-Minkowski-and-Schwarzschild-background
 venue: "[CUHK seminar in geometric analysis]"
-date: 2023-8-11 to 9-1
+date: 2023-8-11 to 2023-9-1
 location: "501a, IMS"
 ---
 
 Lecture series on semi-linear wave equation in Minkowski and Schwarzschild background:
-
   - On 11/8, we discuss semi-linear wave equations in Minkowski - Energy type estimate
-
   - On 18/8, we discuss semi-linear wave equations in Minkowski - Dynamic estimate & Global decay
-
   - On 25/8, we discuss semi-linear wave equations in Schwarzschild - Morawetz estimate
-
   - On 1/9, we disucss the recent development of Dawei Shen on Exterior stability of Minkowski using Dafermos-Rodnianski's r^p estimate. (cancelled due to Typhoon)
-
+---
 References: [John Stogin's PhD thesis](https://dataspace.princeton.edu/handle/88435/dsp01p5547t983)
