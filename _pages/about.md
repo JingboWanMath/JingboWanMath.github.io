@@ -60,7 +60,7 @@ redirect_from:
 - Columbia General Relativity & Geometric Analysis Seminar - Columbia University, Oct 2022
 
    __Invited lectures__:
-- Short course in semi-linear wave equation on blackholes - CUHK, Aug 2023
+- Short course: semi-linear wave equation on blackholes - CUHK, Aug 2023
    
   For more details of talks I contributed to the student seminars and invited talks, see my [TALKS LIST](https://jingbowanmath.github.io/talks/).
 
