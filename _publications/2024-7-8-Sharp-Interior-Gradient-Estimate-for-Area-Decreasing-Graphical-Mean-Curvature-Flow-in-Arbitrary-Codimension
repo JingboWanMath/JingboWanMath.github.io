@@ -1,11 +1,10 @@
 ---
 title: "Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension"
 collection: publications
-# permalink: /publications/2024-7-8-Sharp-Interior-Gradient-Estimate-for-Area-Decreasing-Graphical-Mean-Curvature-Flow-in-Arbitrary-Codimension
-excerpt: 'This paper is about the interior gradient estimate for GMCF in arbitrary codimension with area decreasing condition.'
-date: 2024-7-6
-venue: 'arxiv preprint'
-paperurl: 'https://arxiv.org/abs/2407.05602'
-
+date: 2024-07-06
+venue: "arXiv preprint"
+excerpt: "This paper establishes the interior gradient estimate for graphical mean curvature flow (GMCF) in arbitrary codimension under the area-decreasing condition."
+paperurl: "https://arxiv.org/abs/2407.05602"
 ---
-We prove the sharp interior gradient estimate for area decreasing graphical mean curvature flow in arbitrary codimension, which generalizes the result in \cite{CM}.
+
+We prove the sharp interior gradient estimate for area-decreasing graphical mean curvature flow (GMCF) in arbitrary codimension, generalizing the result in \cite{CM}.
