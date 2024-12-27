@@ -1,14 +1,14 @@
 ---
-title: "Preserving positive intermediate curvature, joint with Tsz-Kiu Aaron Chow and Florian Johne"
+title: "Preserving Positive Intermediate Curvature (joint with Tsz-Kiu Aaron Chow and Florian Johne)"
 collection: publications
-# permalink: /publications/2023-9-23-Preserving-positive-intermediate-curvature
-excerpt: 'This paper is about the natural boundary effects/conditions for the positive intermediate curvature condition introduced by Brendle-Hirsch-Johne.'
-date: 2023-9-23
-venue: 'The Journal of Geometric Analysis'
-paperurl: 'https://doi.org/10.1007/s12220-023-01419-2'
-
+date: 2023-09-23
+venue: "The Journal of Geometric Analysis"
+excerpt: "This paper investigates natural boundary effects and conditions for the positive intermediate curvature condition introduced by Brendle-Hirsch-Johne."
+paperurl: "https://doi.org/10.1007/s12220-023-01419-2"
 ---
-Consider a compact manifold N (with or without boundary) of dimension $n$. Positive $m-$intermediate curvature interpolates between positive Ricci curvature ($m=1$) and positive scalar curvature ($m=n−1$), and it is obstructed on partial tori $N^n=M^{n−m}\times \mathbb{T}^m$. Given Riemannian metrics $g,\tilde g$ on $(N,\partial N)$ with positive $m-$intermediate curvature and $m-$positive difference $h_g−h_{\tilde g}$ of second fundamental forms we show that there exists a smooth family of Riemannian metrics with positive $m-$intermediate curvature interpolating between $g$ and $\tilde g$. Moreover, we apply this result to prove a non-existence result for partial torical bands with positive $m-$intermediate curvature and strictly $m-$convex boundaries.
 
+Consider a compact manifold \(N\) (with or without boundary) of dimension \(n\). Positive \(m\)-intermediate curvature interpolates between positive Ricci curvature (\(m=1\)) and positive scalar curvature (\(m=n-1\)), and it is obstructed on partial tori \(N^n=M^{n-m} \times \mathbb{T}^m\).  
 
+Given Riemannian metrics \(g, \tilde{g}\) on \((N, \partial N)\) with positive \(m\)-intermediate curvature and \(m\)-positive difference \(h_g - h_{\tilde{g}}\) of second fundamental forms, we show that there exists a smooth family of Riemannian metrics with positive \(m\)-intermediate curvature interpolating between \(g\) and \(\tilde{g}\).  
 
+Moreover, we apply this result to prove a non-existence result for partial torical bands with positive \(m\)-intermediate curvature and strictly \(m\)-convex boundaries.
