@@ -1,12 +1,10 @@
 ---
-title: "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case a<<M, Q<M in Axial Symmetry, joint with Elena Giorgi"
+title: "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case \(a \ll M, Q < M\) in Axial Symmetry (joint with Elena Giorgi)"
 collection: publications
-# permalink: /publications/2024-7-15-Boundedness-and-Decay-for-the-Teukolsky-System-in-Kerr-Newman-Spacetime-II
-excerpt: 'This paper is about the axisymmetric solutions to the Teuksolsky system, which arises from linear perturbation of Kerr-Newman spacetime. We focus on slowly rotating, strongly charged Kerr-Newman.'
-date: 2024-7-15
-venue: 'arxiv preprint'
-paperurl: 'https://arxiv.org/abs/2407.10750v1'
-
-
+date: 2024-07-15
+venue: "arXiv preprint"
+excerpt: "This paper investigates axisymmetric solutions to the Teukolsky system, arising from linear perturbations of Kerr-Newman spacetime, focusing on slowly rotating, strongly charged Kerr-Newman black holes."
+paperurl: "https://arxiv.org/abs/2407.10750v1"
 ---
-We establish boundedness and polynomial decay results for the Teukolsky system in the exterior spacetime of very slowly rotating and strongly charged sub-extremal Kerr-Newman black holes, with a focus on axially symmetric solutions. The key step in achieving these results is deriving a physical-space Morawetz estimate for the associated generalized Regge-Wheeler system, without relying on spherical harmonic decomposition.
+
+We establish boundedness and polynomial decay results for the Teukolsky system in the exterior spacetime of very slowly rotating and strongly charged sub-extremal Kerr-Newman black holes, with a focus on axially symmetric solutions. A key step in achieving these results is deriving a physical-space Morawetz estimate for the associated generalized Regge-Wheeler system, avoiding the use of spherical harmonic decomposition.
