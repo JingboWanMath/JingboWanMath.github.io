@@ -23,14 +23,14 @@ redirect_from:
 
 📃 So far, my __appeared works__ are about positive curved manifolds, parabolic geometric/heat flows or hyperbolic equations on blackholes:
 
-   1. (Joint with Elena Giorgi) "Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case a << M, Q < M in Axial Symmetry," preprint.
-   2. "Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension," submitted.
-   3. (Joint with Man-Chun Lee and Luen-Fai Tam) "Rigidity of Area Non-Increasing Maps," submitted.
-   4. (Joint with Man-Chun Lee) "Rigidity of Contracting Map Using Harmonic Map Heat Flow," submitted.
-   5. (Joint with Elena Giorgi) "Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime," , to appear in J. Funct. Anal.
-   6. (Joint with Florian Johne and Tsz-Kiu Aaron Chow) "Preserving Positive Intermediate Curvature," J Geom Anal 33, 366 (2023).
-   7. (Joint with Nicholas Cheng-Hoong Chin and Frederick Tsz-Ho Fong) "Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows," Proc. Amer. Math. Soc. 148 (2020), 4967-4982.
-   
+   1.	(Joint with Elena Giorgi) “Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case  in Axial Symmetry,” preprint.
+   2.	“Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension,” submitted.
+   3.	(Joint with Man-Chun Lee and Luen-Fai Tam) “Rigidity of Area Non-Increasing Maps,” accepted by Trans. Amer. Math. Soc.
+   4.	(Joint with Man-Chun Lee) “Rigidity of Contracting Maps Using Harmonic Map Heat Flow,” submitted.
+   5.	(Joint with Elena Giorgi) “Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime,” J. Funct. Anal. 287 (12), 110668.
+   6.	(Joint with Florian Johne and Tsz-Kiu Aaron Chow) “Preserving Positive Intermediate Curvature,” J. Geom. Anal. 33, 366 (2023).
+   7.	(Joint with Nicholas Cheng-Hoong Chin and Frederick Tsz-Ho Fong) “Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows,” Proc. Amer. Math. Soc. 148 (2020), 4967-4982.
+   8.	(Joint with Sergiu Klainerman and Dawei Shen) “A Canonical Foliation on Null Infinity in Perturbations of Kerr,” to appear soon.
    
       See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/) for more details.
 
