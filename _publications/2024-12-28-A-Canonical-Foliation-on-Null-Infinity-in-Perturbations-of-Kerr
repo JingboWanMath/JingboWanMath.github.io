@@ -1,0 +1,12 @@
+---
+title: "A Canonical Foliation on Null Infinity in Perturbations of Kerr"
+collection: publications
+date: 2024-12-28
+venue: "arXiv preprint"
+excerpt: "This paper constructs a canonical foliation on null infinity in perturbations of Kerr spacetimes, ensuring well-defined physical quantities and resolving ambiguities in physics literature."
+paperurl: "https://arxiv.org/abs/2412.20119"
+---
+
+Kerr stability for small angular momentum has been proved in the series of works by Klainerman-Szeftel, Giorgi-Klainerman-Szeftel, and Shen. Some of the most basic conclusions of the result, concerning various physical quantities on the future null infinity, are derived in the work of Klainerman-Szeftel. Further important conclusions were later derived in An-He-Shen and Chen-Klainerman.
+
+In this paper, based on the existence and uniqueness results for GCM spheres by Klainerman-Szeftel, we establish the existence of a canonical foliation on the future null infinity for which the null energy, linear momentum, center of mass, and angular momentum are well-defined and satisfy the expected physical laws of gravitational radiation. The rigid character of this foliation eliminates the usual ambiguities related to these quantities in the physics literature. Additionally, we demonstrate that under the initial assumptions of Klainerman-Szeftel, the center of mass of the black hole undergoes a large deformation (recoil) after the perturbation.
