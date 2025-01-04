@@ -23,7 +23,7 @@ redirect_from:
 
 📃 My **published works** cover topics such as positively curved manifolds, parabolic geometric/heat flows, and hyperbolic equations on black holes:
 
-1. (Joint with Sergiu Klainerman and Dawei Shen) “A Canonical Foliation on Null Infinity in Perturbations of Kerr,” to appear soon.
+1. (Joint with Sergiu Klainerman and Dawei Shen) "A Canonical Foliation on Null Infinity in Perturbations of Kerr", arXiv:2412.20119 (gr-qc), 28 Dec 2024.
 2. (Joint with Elena Giorgi) “Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case \( a \ll M, Q < M \) in Axial Symmetry,” preprint.
 3. “Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension,” submitted.
 4. (Joint with Man-Chun Lee and Luen-Fai Tam) “Rigidity of Area Non-Increasing Maps,” accepted by *Trans. Amer. Math. Soc.*.
