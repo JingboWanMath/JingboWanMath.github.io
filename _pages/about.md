@@ -23,14 +23,15 @@ redirect_from:
 
 📃 My **published works** cover topics such as positively curved manifolds, parabolic geometric/heat flows, and hyperbolic equations on black holes:
 
-1. (Joint with Sergiu Klainerman and Dawei Shen) "A Canonical Foliation on Null Infinity in Perturbations of Kerr", arXiv:2412.20119 (gr-qc), 28 Dec 2024.
-2. (Joint with Elena Giorgi) “Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case \( a \ll M, Q < M \) in Axial Symmetry,” preprint.
-3. “Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension,” submitted.
-4. (Joint with Man-Chun Lee and Luen-Fai Tam) “Rigidity of Area Non-Increasing Maps,” accepted by *Trans. Amer. Math. Soc.*.
-5. (Joint with Man-Chun Lee) “Rigidity of Contracting Maps Using Harmonic Map Heat Flow,” submitted.
-6. (Joint with Elena Giorgi) “Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime,” *J. Funct. Anal.* 287 (12), 110668.
-7. (Joint with Florian Johne and Tsz-Kiu Aaron Chow) “Preserving Positive Intermediate Curvature,” *J. Geom. Anal.* 33, 366 (2023).
-8. (Joint with Nicholas Cheng-Hoong Chin and Frederick Tsz-Ho Fong) “Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows,” *Proc. Amer. Math. Soc.* 148 (2020), 4967-4982.
+1. (Joint with Dawei Shen) "Formation of Trapped Surfaces for the Einstein-Maxwell-Charged Scalar Field System", arXiv:2504.19976, 28 Apr 2025.
+2. (Joint with Sergiu Klainerman and Dawei Shen) "A Canonical Foliation on Null Infinity in Perturbations of Kerr", arXiv:2412.20119, 28 Dec 2024, submitted.
+3. (Joint with Elena Giorgi) “Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case \( a \ll M, Q < M \) in Axial Symmetry”, *Adv. Theor. Math. Phys.*, to appear.
+4. “Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension,” submitted.
+5. (Joint with Man-Chun Lee and Luen-Fai Tam) "Rigidity of Area Non-Increasing Maps", *Trans. Amer. Math. Soc.* 378 (2025), no. 4, 2797-2827.
+6. (Joint with Man-Chun Lee) “Rigidity of Contracting Maps Using Harmonic Map Heat Flow”,  *Proc. Amer. Math. Soc.*, to appear.
+7. (Joint with Elena Giorgi) “Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime”, *J. Funct. Anal.* 287 (12), 110668.
+8. (Joint with Florian Johne and Tsz-Kiu Aaron Chow) “Preserving Positive Intermediate Curvature”, *J. Geom. Anal.* 33, 366 (2023).
+9. (Joint with Nicholas Cheng-Hoong Chin and Frederick Tsz-Ho Fong) “Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows”, *Proc. Amer. Math. Soc.* 148 (2020), 4967-4982.
 
 See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/) for more details.
 
