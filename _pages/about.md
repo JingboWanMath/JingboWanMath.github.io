@@ -11,7 +11,7 @@ redirect_from:
 
 🧑‍🎓 I am a fifth-year graduate student at Columbia University, supervised by [Professor Mu-Tao Wang](http://www.math.columbia.edu/~mtwang/) and [Professor Elena Giorgi](http://www.math.columbia.edu/~egiorgi/).  
 
-🙋 __I am on the job market for the fall of 2024.__
+🗼 __I am graduating from Columbia Univeristy and will be at Sorbonne University starting from 2025 fall.__
 
 🏫 I completed my undergraduate studies at the Hong Kong University of Science and Technology, where I was supervised by [Professor Frederick Fong](https://frederickfong.me).
 
