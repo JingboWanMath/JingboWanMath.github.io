@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "👋 Hi there, I'm Jingbo,  
-who is passionate about Geometric Analysis and General Relativity!"
+title: "👋 Hi there, I'm Jingbo —  
+a CNRS postdoctoral researcher passionate about Geometric Analysis and General Relativity"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,73 +9,88 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I am a fifth-year graduate student at Columbia University, supervised by [Professor Mu-Tao Wang](http://www.math.columbia.edu/~mtwang/) and [Professor Elena Giorgi](http://www.math.columbia.edu/~egiorgi/).  
+<span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I am currently a CNRS postdoctoral researcher at Sorbonne University in Paris</strong>, supported by an ERC grant.</span>  
 
-🗼 __I am graduating from Columbia Univeristy and will be at Sorbonne University starting from 2025 fall.__
+🎓 I received my PhD in Mathematics from <em>Columbia University</em>, where I was fortunate to be advised by  
+<a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a>.
 
-🏫 I completed my undergraduate studies at the Hong Kong University of Science and Technology, where I was supervised by [Professor Frederick Fong](https://frederickfong.me).
-
----
-
-## More About Me
-
-✨ My **research interests** include differential geometry, partial differential equations, general relativity, and more, with a particular focus on various aspects of black holes.
-
-📃 My **published works** cover topics such as positively curved manifolds, parabolic geometric/heat flows, and hyperbolic equations on black holes:
-
-1. (Joint with Dawei Shen) "Formation of Trapped Surfaces for the Einstein-Maxwell-Charged Scalar Field System", arXiv:2504.19976, 28 Apr 2025.
-2. (Joint with Sergiu Klainerman and Dawei Shen) "A Canonical Foliation on Null Infinity in Perturbations of Kerr", arXiv:2412.20119, 28 Dec 2024, submitted.
-3. (Joint with Elena Giorgi) “Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime II: The Case \( a \ll M, Q < M \) in Axial Symmetry”, *Adv. Theor. Math. Phys.*, to appear.
-4. “Sharp Interior Gradient Estimate for Area Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension,” submitted.
-5. (Joint with Man-Chun Lee and Luen-Fai Tam) "Rigidity of Area Non-Increasing Maps", *Trans. Amer. Math. Soc.* 378 (2025), no. 4, 2797-2827.
-6. (Joint with Man-Chun Lee) “Rigidity of Contracting Maps Using Harmonic Map Heat Flow”,  *Proc. Amer. Math. Soc.*, to appear.
-7. (Joint with Elena Giorgi) “Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime”, *J. Funct. Anal.* 287 (12), 110668.
-8. (Joint with Florian Johne and Tsz-Kiu Aaron Chow) “Preserving Positive Intermediate Curvature”, *J. Geom. Anal.* 33, 366 (2023).
-9. (Joint with Nicholas Cheng-Hoong Chin and Frederick Tsz-Ho Fong) “Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows”, *Proc. Amer. Math. Soc.* 148 (2020), 4967-4982.
-
-See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/) for more details.
+🏫 I completed my undergraduate studies at <em>The Hong Kong University of Science and Technology (HKUST)</em>, mentored by  
+<a href="https://frederickfong.me">Prof. Frederick Fong</a>.
 
 ---
 
-## Seminars and Talks
+## 🧠 Research Interests
 
-🧑‍🏫 I have co-organized several student seminars at Columbia University:
-
-- **Fall 2021**: Informal student GR seminar (via Zoom)
-- **Fall 2022**: [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/)
-- **Spring 2023**: [Scalar Curvature and Dihedral Rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html)
-- **Fall 2023**: [Geometric Flows and Their Applications](http://math.columbia.edu/~ypharry/seminar/mcf)
-- **Spring 2024**: [Regularity Theory of the Monge-Ampère Equation](https://www.math.columbia.edu/~ypharry/seminar/ma)
-- **Fall 2024**: [BV Functions & Regularity of Minimal Surfaces](https://www.math.columbia.edu/~jingbowan/StudentPDEfall2024)
-
-🗣️ For **invited talks**, here is a list of upcoming and recent events:
-
-- **Mathematical GR and Hyperbolic PDE Seminar** - Virtual, Sep 2024
-- **Harmonic Analysis and Differential Equations Seminar** - UC Berkeley, Sep 2024
-- **Mini-workshop in Geometric Analysis** - SUSTech, Aug 2024
-- **Seminar on Pure Mathematics** - HKUST, Aug 2024
-- **Topics in General Relativity at Mathematics Münster** - Münster University, Jul 2024
-- **Westlake University Geometric Analysis Seminar** - Westlake University (online), Apr 2024
-- **BIMCR Geometric Analysis Seminar** - BIMCR (online), Mar 2024
-- **CUNY Geometric Analysis Seminar** - CUNY Graduate Center, Sep 2023
-- **Geometric Analysis Seminar** - CUHK, Aug 2023
-- **Seminar on Pure Mathematics** - HKUST, Aug 2023
-- **MIST 2023 Workshop on Geometry** - CUHK, Aug 2023
-- **Joint Geometric Analysis Seminar** - CUHK, Jun 2023
-- **Columbia General Relativity & Geometric Analysis Seminar** - Columbia University, Oct 2022
-
-### Invited Lectures:
-- **Short Course**: Semi-linear Wave Equation on Black Holes - CUHK, Aug 2023
-
-For more details on my seminars and invited talks, see my [TALKS LIST](https://jingbowanmath.github.io/talks/).
+<span style="font-size:95%">I work at the intersection of differential geometry, partial differential equations, and general relativity, with a focus on the geometry of black holes and related nonlinear problems.</span>
 
 ---
 
-## Useful Links
+## 📄 Selected Publications
 
-- [Prof. Mu-Tao Wang's personal website](http://www.math.columbia.edu/~mtwang/)
-- [Prof. Elena Giorgi's personal website](http://www.math.columbia.edu/~egiorgi/)
-- [Prof. Simon Brendle's personal website](http://www.columbia.edu/~sab2280/main.html)
-- [Prof. Frederick Fong's personal website](https://frederickfong.me)
-- [Prof. Man-Chun Lee's personal website](https://sites.google.com/view/mcleemath/home?pli=1&authuser=1)
-- [Dr. Tsz-Kiu Aaron Chow's personal website](https://math.columbia.edu/~achow/)
+Here are some representative works. For the full list, visit my [<strong>Publications</strong>](https://jingbowanmath.github.io/publications/) page.
+
+<ol style="font-size:95%">
+<li>(with Dawei Shen) <em>Formation of Trapped Surfaces for the Einstein–Maxwell–Charged Scalar Field System</em>, arXiv:2504.19976 (2025)</li>
+<li>(with Sergiu Klainerman and Dawei Shen) <em>A Canonical Foliation on Null Infinity in Perturbations of Kerr</em>, arXiv:2412.20119 (2024), submitted</li>
+<li>(with Elena Giorgi) <em>Boundedness and Decay for the Teukolsky System in Kerr–Newman Spacetime II</em>, <em>Adv. Theor. Math. Phys.</em> (to appear)</li>
+<li><em>Sharp Interior Gradient Estimate for Area-Decreasing Graphical MCF in Arbitrary Codimension</em>, submitted</li>
+<li>(with Man-Chun Lee and Luen-Fai Tam) <em>Rigidity of Area Non-Increasing Maps</em>, <em>Trans. Amer. Math. Soc.</em> 378 (2025)</li>
+<li>(with Man-Chun Lee) <em>Rigidity of Contracting Maps via Harmonic Map Heat Flow</em>, <em>Proc. Amer. Math. Soc.</em> (to appear)</li>
+<li>(with Elena Giorgi) <em>Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr</em>, <em>J. Funct. Anal.</em> 287 (12), 110668</li>
+<li>(with Florian Johne and Tsz-Kiu Aaron Chow) <em>Preserving Positive Intermediate Curvature</em>, <em>J. Geom. Anal.</em> 33, 366 (2023)</li>
+<li>(with N. C.-H. Chin and F. T.-H. Fong) <em>Uniqueness of Self-Conformal Solutions to Inverse Curvature Flows</em>, <em>Proc. Amer. Math. Soc.</em> 148 (2020)</li>
+</ol>
+
+---
+
+## 🧑‍🏫 Teaching & Seminars
+
+I've co-organized the following student seminars at Columbia University:
+
+<ul style="font-size:95%">
+<li><strong>Fall 2021</strong>: Informal Student GR Seminar (Zoom)</li>
+<li><strong>Fall 2022</strong>: <a href="https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/">Scalar Curvature and Topology</a></li>
+<li><strong>Spring 2023</strong>: <a href="http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html">Scalar Curvature and Dihedral Rigidity</a></li>
+<li><strong>Fall 2023</strong>: <a href="http://math.columbia.edu/~ypharry/seminar/mcf">Geometric Flows and Their Applications</a></li>
+<li><strong>Spring 2024</strong>: <a href="https://www.math.columbia.edu/~ypharry/seminar/ma">Regularity Theory of the Monge-Ampère Equation</a></li>
+<li><strong>Fall 2024</strong>: <a href="https://www.math.columbia.edu/~jingbowan/StudentPDEfall2024">BV Functions & Regularity of Minimal Surfaces</a></li>
+</ul>
+
+---
+
+## 🎤 Invited Talks
+
+Recent and upcoming invited talks include:
+
+<ul style="font-size:95%">
+<li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> – Virtual, Sep 2024</li>
+<li><strong>Harmonic Analysis and Differential Equations Seminar</strong> – UC Berkeley, Sep 2024</li>
+<li><strong>Mini-Workshop in Geometric Analysis</strong> – SUSTech, Aug 2024</li>
+<li><strong>Seminar on Pure Mathematics</strong> – HKUST, Aug 2024</li>
+<li><strong>Topics in General Relativity</strong> – Münster University, Jul 2024</li>
+<li><strong>Westlake Geometric Analysis Seminar</strong> – Online, Apr 2024</li>
+<li><strong>BIMCR GA Seminar</strong> – Online, Mar 2024</li>
+<li><strong>CUNY GA Seminar</strong> – Sep 2023</li>
+<li><strong>CUHK GA Seminar</strong> – Aug 2023</li>
+<li><strong>MIST Workshop</strong> – CUHK, Aug 2023</li>
+<li><strong>Joint GA Seminar</strong> – CUHK, Jun 2023</li>
+<li><strong>Columbia GR & GA Seminar</strong> – Oct 2022</li>
+</ul>
+
+📘 **Short Course**:  
+<em>Semi-linear Wave Equation on Black Holes</em> – CUHK, Aug 2023
+
+More talks: [<strong>Talks</strong>](https://jingbowanmath.github.io/talks/)
+
+---
+
+## 🔗 Useful Links
+
+<ul style="font-size:95%">
+<li><a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a></li>
+<li><a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a></li>
+<li><a href="http://www.columbia.edu/~sab2280/main.html">Prof. Simon Brendle</a></li>
+<li><a href="https://frederickfong.me">Prof. Frederick Fong</a></li>
+<li><a href="https://sites.google.com/view/mcleemath/home">Prof. Man-Chun Lee</a></li>
+<li><a href="https://math.columbia.edu/~achow/">Dr. Tsz-Kiu Aaron Chow</a></li>
+</ul>
