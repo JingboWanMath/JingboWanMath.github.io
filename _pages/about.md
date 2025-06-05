@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I am currently a CNRS postdoctoral researcher at Sorbonne University in Paris</strong>, supported by an ERC grant.</span>  
+<span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I will be a CNRS postdoctoral researcher at Sorbonne University in Paris</strong>, starting from Fall 2025.</span>  
 
 🎓 I received my PhD in Mathematics from <em>Columbia University</em>, where I was fortunate to be advised by  
 <a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a>.
@@ -81,16 +81,3 @@ Recent and upcoming invited talks include:
 <em>Semi-linear Wave Equation on Black Holes</em> – CUHK, Aug 2023
 
 More talks: [<strong>Talks</strong>](https://jingbowanmath.github.io/talks/)
-
----
-
-## 🔗 Useful Links
-
-<ul style="font-size:95%">
-<li><a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a></li>
-<li><a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a></li>
-<li><a href="http://www.columbia.edu/~sab2280/main.html">Prof. Simon Brendle</a></li>
-<li><a href="https://frederickfong.me">Prof. Frederick Fong</a></li>
-<li><a href="https://sites.google.com/view/mcleemath/home">Prof. Man-Chun Lee</a></li>
-<li><a href="https://math.columbia.edu/~achow/">Dr. Tsz-Kiu Aaron Chow</a></li>
-</ul>
