@@ -64,6 +64,7 @@ I've co-organized the following student seminars at Columbia University:
 Recent and upcoming invited talks include:
 
 <ul style="font-size:95%">
+<li><strong>Analysis Seminar</strong> – AMSS, Virtual, Apr 2025</li>
 <li><strong>Hyperbolic & Dispersive Equations on Curved Geometries: Connections to Physics and General Relativity</strong> – SCGP, Apr 2025</li>
 <li><strong>Lehigh Geometry Seminar</strong> – Virtual, Jan 2025</li>
 <li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> – Virtual, Sep 2024</li>
