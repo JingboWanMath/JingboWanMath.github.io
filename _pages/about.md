@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size:80%">
+
 <span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I will be a CNRS postdoctoral researcher at Sorbonne University in Paris</strong>, starting from Fall 2025.</span>  
 
 🎓 I received my PhD in Mathematics from <em>Columbia University</em>, where I was fortunate to be advised by  
