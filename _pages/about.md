@@ -13,11 +13,9 @@ redirect_from:
 
 <span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I will be a CNRS postdoctoral researcher at Sorbonne University in Paris</strong>, starting from Fall 2025.</span>  
 
-🎓 I received my PhD in Mathematics from <em>Columbia University</em>, where I was fortunate to be advised by  
-<a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a>.
+🎓 I received my PhD in Mathematics from <em>Columbia University</em>, where I was fortunate to be advised by <a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a>.
 
-🏫 I completed my undergraduate studies at <em>The Hong Kong University of Science and Technology (HKUST)</em>, mentored by  
-<a href="https://frederickfong.me">Prof. Frederick Fong</a>.
+🏫 I completed my undergraduate studies at <em>The Hong Kong University of Science and Technology (HKUST)</em>, mentored by <a href="https://frederickfong.me">Prof. Frederick Fong</a>.
 
 ---
 
