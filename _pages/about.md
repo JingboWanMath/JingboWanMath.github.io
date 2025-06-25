@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size:80%">
-
 <span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I will be a CNRS postdoctoral researcher at Sorbonne University in Paris</strong>, starting from Fall 2025.</span>  
 
 🎓 I received my PhD in Mathematics from <em>Columbia University</em>, where I was fortunate to be advised by <a href="http://www.math.columbia.edu/~mtwang/">Prof. Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Prof. Elena Giorgi</a>.
