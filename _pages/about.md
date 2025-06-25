@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋 Hi there, I'm Jingbo —  
-a CNRS postdoctoral researcher passionate about Geometric Analysis and General Relativity"
+a CNRS postdoctoral researcher passionate about General Relativity and Geometric Analysis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,11 +25,12 @@ redirect_from:
 
 ---
 
-## 📄 Selected Publications
+## 📄 Publications
 
-Here are some representative works. For the full list, visit my [<strong>Publications</strong>](https://jingbowanmath.github.io/publications/) page.
+Here are my works. See also [<strong>Publications</strong>](https://jingbowanmath.github.io/publications/) page.
 
 <ol style="font-size:95%">
+<li>(with Dawei Shen) <em>Formation of Multiple Black Holes from Cauchy Data</em>, arXiv:2506.16117 (2025)</li>
 <li>(with Dawei Shen) <em>Formation of Trapped Surfaces for the Einstein–Maxwell–Charged Scalar Field System</em>, arXiv:2504.19976 (2025)</li>
 <li>(with Sergiu Klainerman and Dawei Shen) <em>A Canonical Foliation on Null Infinity in Perturbations of Kerr</em>, arXiv:2412.20119 (2024), submitted</li>
 <li>(with Elena Giorgi) <em>Boundedness and Decay for the Teukolsky System in Kerr–Newman Spacetime II</em>, <em>Adv. Theor. Math. Phys.</em> (to appear)</li>
@@ -63,6 +64,7 @@ I've co-organized the following student seminars at Columbia University:
 Recent and upcoming invited talks include:
 
 <ul style="font-size:95%">
+<li><strong>Hyperbolic & Dispersive Equations on Curved Geometries: Connections to Physics and General Relativity</strong> – SCGP, Apr 2025</li>
 <li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> – Virtual, Sep 2024</li>
 <li><strong>Harmonic Analysis and Differential Equations Seminar</strong> – UC Berkeley, Sep 2024</li>
 <li><strong>Mini-Workshop in Geometric Analysis</strong> – SUSTech, Aug 2024</li>
