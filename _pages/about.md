@@ -65,6 +65,7 @@ Recent and upcoming invited talks include:
 
 <ul style="font-size:95%">
 <li><strong>Hyperbolic & Dispersive Equations on Curved Geometries: Connections to Physics and General Relativity</strong> – SCGP, Apr 2025</li>
+<li><strong>Lehigh Geometry Seminar</strong> – Virtual, Jan 2025</li>
 <li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> – Virtual, Sep 2024</li>
 <li><strong>Harmonic Analysis and Differential Equations Seminar</strong> – UC Berkeley, Sep 2024</li>
 <li><strong>Mini-Workshop in Geometric Analysis</strong> – SUSTech, Aug 2024</li>
