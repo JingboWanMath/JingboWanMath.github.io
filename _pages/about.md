@@ -28,6 +28,8 @@ redirect_from:
 Here are my works. See also [<strong>Publications</strong>](https://jingbowanmath.github.io/publications/) page.
 
 <ol style="font-size:95%">
+<li>(with Allen Juntao Fang and Elena Giorgi) <em>Einstein–Maxwell Equations on Mass-Centered GCM Hypersurfaces</em>, arXiv:2510.10814 (2025)</li>
+<li>(with Allen Juntao Fang and Elena Giorgi) <em>Mass-Centered GCM Framework in Perturbations of Kerr(–Newman)</em>, arXiv:2510.10811 (2025)</li>  
 <li>(with Dawei Shen) <em>Formation of Multiple Black Holes from Cauchy Data</em>, arXiv:2506.16117 (2025)</li>
 <li>(with Dawei Shen) <em>Formation of Trapped Surfaces for the Einstein–Maxwell–Charged Scalar Field System</em>, arXiv:2504.19976 (2025)</li>
 <li>(with Sergiu Klainerman and Dawei Shen) <em>A Canonical Foliation on Null Infinity in Perturbations of Kerr</em>, arXiv:2412.20119 (2024), submitted</li>
