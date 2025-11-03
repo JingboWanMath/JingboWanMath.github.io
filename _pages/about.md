@@ -28,6 +28,7 @@ redirect_from:
 Here are my works. See also [<strong>Publications</strong>](https://jingbowanmath.github.io/publications/) page.
 
 <ol style="font-size:95%">
+<li>(with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang) <em>Constructing Entire Minimal Graphs by Evolving Planes</em>, arXiv:2510.24978 (2025)</li>
 <li>(with Allen Juntao Fang and Elena Giorgi) <em>Einstein–Maxwell Equations on Mass-Centered GCM Hypersurfaces</em>, arXiv:2510.10814 (2025)</li>
 <li>(with Allen Juntao Fang and Elena Giorgi) <em>Mass-Centered GCM Framework in Perturbations of Kerr(–Newman)</em>, arXiv:2510.10811 (2025)</li>  
 <li>(with Dawei Shen) <em>Formation of Multiple Black Holes from Cauchy Data</em>, arXiv:2506.16117 (2025)</li>
