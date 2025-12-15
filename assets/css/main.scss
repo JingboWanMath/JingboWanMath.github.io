@@ -39,3 +39,38 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ---- Custom typography (append at end) ---- */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;600&display=swap");
+
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  line-height: 1.65;
+}
+
+/* Headings + UI in a clean sans font */
+h1, h2, h3, h4, h5, h6,
+.masthead,
+.greedy-nav,
+.nav__title,
+.nav__list,
+.page__meta,
+.archive__item-meta,
+.btn {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Links: slightly nicer underline */
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
