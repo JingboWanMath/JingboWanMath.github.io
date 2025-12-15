@@ -2,9 +2,11 @@
 title: "Preserving Positive Intermediate Curvature (joint with Tsz-Kiu Aaron Chow and Florian Johne)"
 collection: publications
 date: 2023-09-23
-venue: "The Journal of Geometric Analysis"
-excerpt: "This paper investigates natural boundary effects and conditions for the positive intermediate curvature condition introduced by Brendle-Hirsch-Johne."
+venue: "J. Geom. Anal. 33 (2023), 366"
+excerpt: "This paper investigates natural boundary effects and conditions for the positive intermediate curvature condition introduced by Brendle–Hirsch–Johne."
 paperurl: "https://doi.org/10.1007/s12220-023-01419-2"
+area: ga
+status: published
 ---
 
 Consider a compact manifold \(N\) (with or without boundary) of dimension \(n\). Positive \(m\)-intermediate curvature interpolates between positive Ricci curvature (\(m=1\)) and positive scalar curvature (\(m=n-1\)), and it is obstructed on partial tori \(N^n=M^{n-m} \times \mathbb{T}^m\).  
