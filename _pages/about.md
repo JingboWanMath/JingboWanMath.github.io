@@ -1,34 +1,28 @@
 ---
 permalink: /
-title: "Jingbo Wan"
-excerpt: "CNRS postdoctoral researcher in General Relativity and Geometric Analysis"
+title: "👋 Hi there, I'm Jingbo —  a CNRS postdoctoral researcher"
+excerpt: "passionate about General Relativity and Geometric Analysis"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a **CNRS postdoctoral researcher at Sorbonne University (Paris)**, supervised by  
-<a href="https://www.ljll.fr/szeftel/index.html">Jérémie Szeftel</a>.
+<span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I am a **CNRS postdoctoral researcher at Sorbonne University (Paris)**, supervised by <a href="https://www.ljll.fr/szeftel/index.html">Jérémie Szeftel</a>.</span> 
 
-I received my **PhD in Mathematics from Columbia University (2025)**, where I was advised by  
-<a href="http://www.math.columbia.edu/~mtwang/">Mu-Tao Wang</a> and  
-<a href="http://www.math.columbia.edu/~egiorgi/">Elena Giorgi</a>.
+🎓 I received my **PhD in Mathematics from Columbia University (2025)**, where I was advised by <a href="http://www.math.columbia.edu/~mtwang/">Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Elena Giorgi</a>.
 
-I completed my undergraduate studies at **The Hong Kong University of Science and Technology (2020)**, mentored by  
-<a href="https://frederickfong.me">Frederick Fong</a>.
+🏫 I completed my undergraduate studies at **The Hong Kong University of Science and Technology (2020)**, mentored by <a href="https://frederickfong.me">Frederick Fong</a>.
 
 ---
 
-## Research
+## 🧠 Research
 
-I work at the interface of **general relativity, geometric analysis, and nonlinear PDE**, 
-with a focus on the **geometry and dynamics of black holes**, dispersive equations on curved spacetimes, 
-and geometric evolution problems.
+I work at the interface of **general relativity, geometric analysis, and nonlinear PDE**, with a focus on the **geometry and dynamics of black holes**, dispersive equations on curved spacetimes, and geometric evolution problems.
 
 ---
 
-## Publications
+## 📄 Publications
 
 See the full list on the [**Publications**](https://jingbowanmath.github.io/publications/) page.  
 
@@ -139,7 +133,24 @@ submitted.
 
 ---
 
-## Teaching & Seminars
+## 🧑‍🏫 Teaching & Seminars
+
+### Teaching
+
+<ul style="font-size:95%">
+<li><strong>Spring 2025</strong>: Calculus II, Instructor</li>
+<li><strong>Summer 2024</strong>: Analysis and Optimization, Instructor</li>
+<li><strong>Fall 2024</strong>: Accelerated Multivariable Calculus, Teaching Assistant</li>
+<li><strong>Spring 2024</strong>: Accelerated Multivariable Calculus, Teaching Assistant</li>
+<li><strong>Fall 2023</strong>: Accelerated Multivariable Calculus, Teaching Assistant (second half)</li>
+<li><strong>Fall 2023</strong>: Number Theory and Cryptography, Teaching Assistant (first half)</li>
+<li><strong>Spring 2023</strong>: Linear Algebra, Teaching Assistant</li>
+<li><strong>Fall 2022</strong>: Linear Algebra, Teaching Assistant</li>
+<li><strong>Spring 2022</strong>: Number Theory and Cryptography, Teaching Assistant</li>
+<li><strong>Fall 2021</strong>: Ordinary Differential Equations, Teaching Assistant</li>
+</ul>
+
+### Seminars
 
 I have co-organized the following student seminars at Columbia University:
 
