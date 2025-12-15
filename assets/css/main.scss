@@ -142,3 +142,32 @@ hr {
   hyphens: auto;
   word-break: normal;
 }
+
+/* ---- Wider main content (academic homepage) ---- */
+
+/* Increase overall page width */
+.page {
+  max-width: 1200px;  /* default ~800–900px */
+}
+
+/* Main text column */
+.page__content {
+  max-width: 900px;   /* default ~700px */
+}
+
+/* Archive pages (Publications, Talks) */
+.archive {
+  max-width: 900px;
+}
+
+/* Slightly wider for large screens */
+@media (min-width: 1400px) {
+  .page {
+    max-width: 1300px;
+  }
+
+  .page__content,
+  .archive {
+    max-width: 1000px;
+  }
+}
