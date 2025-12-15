@@ -1,0 +1,14 @@
+---
+title: "Einstein–Maxwell Equations on Mass-Centered GCM Hypersurfaces (joint with Allen Juntao Fang and Elena Giorgi)"
+collection: publications
+date: 2025-10-12
+venue: ""
+excerpt: "We solve the Einstein–Maxwell equations on mass-centered GCM hypersurfaces, providing a key step toward the nonlinear stability of Reissner–Nordström and Kerr–Newman spacetimes."
+paperurl: "https://arxiv.org/abs/2510.10814"
+area: gr
+status: preprint
+---
+
+The resolution of the nonlinear stability of black holes as solutions to the Einstein equations relies crucially on imposing appropriate geometric gauge conditions. In the vacuum case, the use of Generally Covariant Modulated (GCM) spheres and hypersurfaces has played a central role in the proof of stability for slowly rotating Kerr spacetime. For the charged setting, our companion work introduced an alternative mass-centered GCM framework, adapted to the additional difficulties of the Einstein–Maxwell system.
+
+In this paper, we solve the Einstein–Maxwell equations on such a mass-centered spacelike GCM hypersurface, which is equivalent to solving the constraint equations there. We control all geometric quantities of the solution in terms of suitable seed data, corresponding to gauge-invariant fields describing coupled gravitational–electromagnetic radiation in perturbations of Reissner–Nordström or Kerr–Newman spacetimes. These fields, first identified by the second author, are expected to satisfy favorable hyperbolic equations. This result provides a first step toward controlling gauge-dependent quantities in the nonlinear stability analysis of the Reissner–Nordström and Kerr–Newman families.
