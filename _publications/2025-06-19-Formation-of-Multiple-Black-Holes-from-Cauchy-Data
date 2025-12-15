@@ -2,11 +2,11 @@
 title: "Formation of Multiple Black Holes from Cauchy Data (joint with Dawei Shen)"
 collection: publications
 date: 2025-06-19
-venue: "arXiv preprint"
-excerpt: "We construct vacuum initial data that evolve into multiple causally independent trapped surfaces, implying the dynamical formation of multiple black holes in finite time."
+venue: ""
+excerpt: "We construct vacuum initial data whose evolution leads to the formation of multiple causally independent trapped surfaces."
 paperurl: "https://arxiv.org/abs/2506.16117"
+area: gr
+status: preprint
 ---
 
-In this paper, we construct a class of asymptotically flat Cauchy initial data for the Einstein vacuum equations that contain no trapped surfaces, yet whose future development leads to the formation of multiple causally independent trapped surfaces. Assuming the weak cosmic censorship conjecture, this implies the dynamical formation of multiple black holes in finite time.
-
-The construction is based on a surgical modification of the Brill–Lindquist geometrostatic manifold: outside a collection of balls centered at its singularities, the data agree exactly with the Brill–Lindquist metric; inside each ball, the geometry is replaced by a constant-time slice of a well-prepared dynamical spacetime governed by Christodoulou’s short-pulse framework. The construction combines finite-time stability arguments, geometric properties of small-mass, widely separated geometrostatic manifolds, and the obstruction-free annular gluing technique developed by Mao–Oh–Tao. The absence of trapped surfaces in the initial data is verified using a mean curvature comparison argument.
+In this paper, we construct asymptotically flat Cauchy initial data for the Einstein vacuum equations containing no trapped surfaces, whose future development leads to the formation of multiple causally independent trapped surfaces and hence multiple black holes in finite time.
