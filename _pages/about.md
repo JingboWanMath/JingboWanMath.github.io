@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "👋 Hi there, I'm Jingbo —  a CNRS postdoctoral researcher"
-excerpt: "passionate about General Relativity and Geometric Analysis"
+title: "👋 Hi there, I'm Jingbo<br><span style='font-size:70%; font-weight:normal;'>a CNRS postdoctoral researcher passionate about General Relativity and Geometric Analysis</span>"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I am a **CNRS postdoctoral researcher at Sorbonne University (Paris)**, supervised by <a href="https://www.ljll.fr/szeftel/index.html">Jérémie Szeftel</a>.</span> 
+<span style="font-size:95%">🗼</span> <span style="font-size:95%"><strong>I am a **CNRS postdoctoral researcher at Sorbonne University (Paris)**, supervised by <a href="https://www.ljll.fr/szeftel/index.html">Jérémie Szeftel</a>.
 
 🎓 I received my **PhD in Mathematics from Columbia University (2025)**, where I was advised by <a href="http://www.math.columbia.edu/~mtwang/">Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Elena Giorgi</a>.
 
