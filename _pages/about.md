@@ -31,17 +31,16 @@ and geometric evolution problems.
 ## Publications
 
 See the full list on the [**Publications**](https://jingbowanmath.github.io/publications/) page.  
-Preprints are explicitly marked.
 
 ### General Relativity & Hyperbolic PDE
 
 <ol>
 <li>
-(with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang)  
-<em>Constructing Entire Minimal Graphs by Evolving Planes</em>,  
-arXiv:2510.24978 (2025). <strong>[preprint]</strong>
+(with Elena Giorgi and Dawei Shen)  
+<em>Cauchy Data for Multiple Collapsing Boson Stars</em>,  
+arXiv:2512.01844 (2025). <strong>[preprint]</strong>
 </li>
-
+  
 <li>
 (with Allen Juntao Fang and Elena Giorgi)  
 <em>Einstein–Maxwell Equations on Mass-Centered GCM Hypersurfaces</em>,  
@@ -75,7 +74,7 @@ arXiv:2412.20119 (2024), submitted.
 <li>
 (with Elena Giorgi)  
 <em>Boundedness and Decay for the Teukolsky System in Kerr–Newman Spacetime II</em>,  
-<em>Adv. Theor. Math. Phys.</em> (to appear).
+<em>Adv. Theor. Math. Phys.</em>.
 </li>
 
 <li>
@@ -88,6 +87,12 @@ arXiv:2412.20119 (2024), submitted.
 ### Geometric Analysis
 
 <ol>
+<li>
+(with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang)  
+<em>Constructing Entire Minimal Graphs by Evolving Planes</em>,  
+arXiv:2510.24978 (2025). <strong>[preprint]</strong>
+</li>
+  
 <li>
 <em>Sharp Interior Gradient Estimate for Area-Decreasing Graphical Mean Curvature Flow in Arbitrary Codimension</em>,  
 submitted.
@@ -133,14 +138,32 @@ I have co-organized the following student seminars at Columbia University:
 
 ---
 
-## Talks
+## 🎤 Invited Talks
 
-Recent and upcoming invited talks include seminars and workshops in general relativity,
-geometric analysis, and PDE.
+Selected invited talks and workshops:
 
-Selected venues include AMSS, SCGP, UC Berkeley, Münster, HKUST, CUHK, SUSTech, and Columbia.
+<ul style="font-size:90%">
+<li>Analysis Seminar – AMSS (Virtual), Apr 2025</li>
+<li>Hyperbolic & Dispersive Equations on Curved Geometries – SCGP, Apr 2025</li>
+<li>Lehigh Geometry Seminar (Virtual), Jan 2025</li>
+<li>Mathematical GR and Hyperbolic PDE Seminar (Virtual), Sep 2024</li>
+<li>Harmonic Analysis and Differential Equations Seminar – UC Berkeley, Sep 2024</li>
+<li>Mini-Workshop in Geometric Analysis – SUSTech, Aug 2024</li>
+<li>Seminar on Pure Mathematics – HKUST, Aug 2024</li>
+<li>Topics in General Relativity – Münster University, Jul 2024</li>
+<li>Westlake Geometric Analysis Seminar (Online), Apr 2024</li>
+<li>BIMCR GA Seminar (Online), Mar 2024</li>
+<li>CUNY GA Seminar, Sep 2023</li>
+<li>CUHK GA Seminar, Aug 2023</li>
+<li>MIST Workshop – CUHK, Aug 2023</li>
+<li>Joint GA Seminar – CUHK, Jun 2023</li>
+<li>Columbia GR & GA Seminar, Oct 2022</li>
+</ul>
+
+More details: [**Talks**](https://jingbowanmath.github.io/talks/)
 
 📘 **Short Course**:  
+<em>On the Formation of trapped surfaces</em>, CUHK (Aug 2024)
 <em>Semi-linear Wave Equation on Black Holes</em>, CUHK (Aug 2023)
 
 More details: [**Talks**](https://jingbowanmath.github.io/talks/)
