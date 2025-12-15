@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "👋 Hi there, I'm Jingbo<br><span style='font-size:70%; font-weight:normal;'>a CNRS postdoctoral researcher passionate about General Relativity and Geometric Analysis</span>"
-excerpt: ""
+title: "👋 Hi there, I'm Jingbo —  
+a CNRS postdoctoral researcher passionate about General Relativity and Geometric Analysis"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
