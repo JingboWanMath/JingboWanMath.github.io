@@ -40,19 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* ---- Custom typography (append at end) ---- */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;600&display=swap");
+/* ---- Softer academic typography (replace entire block) ---- */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;500&display=swap");
 
 html {
-  font-size: 18px;
+  font-size: 16px; /* smaller, calmer */
 }
 
 body {
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  line-height: 1.65;
+  line-height: 1.7;          /* softer vertical rhythm */
+  color: #333;               /* slightly softer than black */
 }
 
-/* Headings + UI in a clean sans font */
+/* Headings + UI: clean, light, unobtrusive */
 h1, h2, h3, h4, h5, h6,
 .masthead,
 .greedy-nav,
@@ -64,13 +65,56 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
+/* Soften heading weight and spacing */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 600;
-  letter-spacing: -0.01em;
+  font-weight: 500;          /* was 600 */
+  letter-spacing: -0.005em;
 }
 
-/* Links: slightly nicer underline */
+/* Tame title sizes (especially Publications page) */
+.page__title {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin-top: 1.8em;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin-top: 1.2em;
+}
+
+/* Bibliography-style entries */
+.archive__item-title {
+  font-weight: 500;
+  font-size: 1.0rem;
+}
+
+.archive__item-excerpt {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.archive__item-meta {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+/* Links: subtle, non-distracting */
 a {
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
+}
+
+/* Gentle spacing */
+.archive__item {
+  margin-bottom: 1.1em;
+}
+
+hr {
+  margin: 2em 0;
+  opacity: 0.3;
 }
