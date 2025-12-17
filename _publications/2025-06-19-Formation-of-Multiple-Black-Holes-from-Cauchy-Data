@@ -1,12 +1,29 @@
 ---
-title: "Formation of Multiple Black Holes from Cauchy Data (joint with Dawei Shen)"
+title: "Formation of Multiple Black Holes from Cauchy Data"
+authors: "D. Shen, J. Wan"
 collection: publications
 date: 2025-06-19
-venue: ""
-excerpt: "We construct vacuum initial data whose evolution leads to the formation of multiple causally independent trapped surfaces."
-paperurl: "https://arxiv.org/abs/2506.16117"
+
 area: gr
 status: preprint
----
 
-In this paper, we construct asymptotically flat Cauchy initial data for the Einstein vacuum equations containing no trapped surfaces, whose future development leads to the formation of multiple causally independent trapped surfaces and hence multiple black holes in finite time.
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2506.16117"
+pdfurl: "https://arxiv.org/pdf/2506.16117.pdf"
+arxiv: "2506.16117"
+
+excerpt: "Vacuum initial data without trapped surfaces whose evolution forms multiple causally independent black holes."
+
+abstract: >
+  We construct a class of smooth, asymptotically flat Cauchy initial data for
+  the Einstein vacuum equations that contain no trapped surfaces, but whose
+  future development leads in finite time to the formation of multiple
+  causally independent trapped surfaces and hence multiple black holes.
+  The construction may be viewed as a relativistic analogue of $N$-body
+  initial data: the black holes are not present initially and are not glued
+  in \emph{a priori}, but instead arise dynamically from regular vacuum data
+  through gravitational collapse. The construction combines Christodoulou’s
+  short-pulse method with a surgical gluing procedure for the constraint
+  equations, remaining exactly Brill–Lindquist outside localized regions.
+---
