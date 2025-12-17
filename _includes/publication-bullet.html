@@ -1,9 +1,11 @@
 {% assign p = include.post %}
+{% assign abs_id = "abs-" | append: p.url | slugify %}
 
 <li class="pubitem">
-  <span class="pub-authors">
-    {% if p.authors %}{{ p.authors }}.{% endif %}
-  </span>
+  {% if p.authors %}
+    <span class="pub-authors">{{ p.authors }}.</span>
+  {% endif %}
+
   <span class="pub-title">
     <em>
       {% if p.paperurl %}
@@ -14,29 +16,37 @@
     </em>
   </span>
 
-  <span class="pub-links">
-    {% if p.abstract %}
-      <a class="pub-abs" href="#" data-abs-id="abs-{{ p.slug | default: p.date | date: '%Y%m%d' }}-{{ forloop.index0 }}">[abstract]</a>
-    {% endif %}
+  {% if p.venue %}
+    <span class="pub-venue">{{ p.venue }}</span>
+  {% endif %}
 
+  <span class="pub-links">
     {% if p.pdfurl %}
       <a href="{{ p.pdfurl }}">[PDF]</a>
     {% endif %}
-
-    {% if p.status == "preprint" and p.arxiv %}
-      <span class="pub-meta">preprint, arXiv:{{ p.arxiv }}</span>
-    {% elsif p.venue %}
-      <span class="pub-meta">{{ p.venue }}</span>
+    {% if p.arxiv %}
+      <a href="https://arxiv.org/abs/{{ p.arxiv }}">[arXiv]</a>
     {% endif %}
-
     {% if p.doi %}
       <a href="https://doi.org/{{ p.doi }}">[DOI]</a>
+    {% endif %}
+
+    {% if p.abstract or p.content %}
+      <a href="#" class="pub-abs-toggle" data-target="{{ abs_id }}">[abstract]</a>
     {% endif %}
   </span>
 
   {% if p.abstract %}
-    <div class="pub-abstract" id="abs-{{ p.slug | default: p.date | date: '%Y%m%d' }}-{{ forloop.index0 }}">
+    <div class="pub-abstract" id="{{ abs_id }}">
       {{ p.abstract | markdownify }}
+    </div>
+  {% else %}
+    {%- comment -%}
+    Fallback: use the page body as the abstract if no front-matter abstract exists.
+    Keep the body short if you choose this route.
+    {%- endcomment -%}
+    <div class="pub-abstract" id="{{ abs_id }}">
+      {{ p.content | markdownify }}
     </div>
   {% endif %}
 </li>
