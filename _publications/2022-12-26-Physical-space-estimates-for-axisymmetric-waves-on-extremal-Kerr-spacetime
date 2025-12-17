@@ -1,6 +1,10 @@
 ---
 title: "Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime"
-authors: "E. Giorgi, J. Wan"
+authors:
+  - name: "E. Giorgi"
+    url: "https://www.math.columbia.edu/~egiorgi/"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2022-12-26
 
