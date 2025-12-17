@@ -5,58 +5,95 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page lists my publications and preprints.
+Here are my research papers. They are available as PDF files and may differ slightly from the published versions.
 
 {% if author.googlescholar %}
-You can also find an up-to-date list on <a href="{{ author.googlescholar }}">Google Scholar</a>.
+You can also find an up-to-date list on
+<a href="{{ author.googlescholar }}">Google Scholar</a>.
 {% endif %}
 
 {% include base_path %}
 
+<div class="publist">
+
 ## General Relativity & Hyperbolic PDE
 
 ### Preprints
-{% assign gr_pre = site.publications | where: "area", "gr" | where: "status", "preprint" | sort: "date" | reverse %}
+<ul>
+{% assign gr_pre = site.publications
+  | where: "area", "gr"
+  | where: "status", "preprint"
+  | sort: "date"
+  | reverse %}
 {% for post in gr_pre %}
-  {% include archive-single.html %}
-  <div style="height:0.9em;"></div>
+  {% include publication-bullet.html post=post %}
 {% endfor %}
+</ul>
 
 ### Accepted / To appear
-{% assign gr_acc = site.publications | where: "area", "gr" | where: "status", "accepted" | sort: "date" | reverse %}
+<ul>
+{% assign gr_acc = site.publications
+  | where: "area", "gr"
+  | where: "status", "accepted"
+  | sort: "date"
+  | reverse %}
 {% for post in gr_acc %}
-  {% include archive-single.html %}
-  <div style="height:0.9em;"></div>
+  {% include publication-bullet.html post=post %}
 {% endfor %}
+</ul>
 
 ### Published
-{% assign gr_pub = site.publications | where: "area", "gr" | where: "status", "published" | sort: "date" | reverse %}
+<ul>
+{% assign gr_pub = site.publications
+  | where: "area", "gr"
+  | where: "status", "published"
+  | sort: "date"
+  | reverse %}
 {% for post in gr_pub %}
-  {% include archive-single.html %}
-  <div style="height:0.9em;"></div>
+  {% include publication-bullet.html post=post %}
 {% endfor %}
+</ul>
 
 ---
 
 ## Geometric Analysis
 
 ### Preprints
-{% assign ga_pre = site.publications | where: "area", "ga" | where: "status", "preprint" | sort: "date" | reverse %}
+<ul>
+{% assign ga_pre = site.publications
+  | where: "area", "ga"
+  | where: "status", "preprint"
+  | sort: "date"
+  | reverse %}
 {% for post in ga_pre %}
-  {% include archive-single.html %}
-  <div style="height:0.9em;"></div>
+  {% include publication-bullet.html post=post %}
 {% endfor %}
+</ul>
 
 ### Accepted / To appear
-{% assign ga_acc = site.publications | where: "area", "ga" | where: "status", "accepted" | sort: "date" | reverse %}
+<ul>
+{% assign ga_acc = site.publications
+  | where: "area", "ga"
+  | where: "status", "accepted"
+  | sort: "date"
+  | reverse %}
 {% for post in ga_acc %}
-  {% include archive-single.html %}
-  <div style="height:0.9em;"></div>
+  {% include publication-bullet.html post=post %}
 {% endfor %}
+</ul>
 
 ### Published
-{% assign ga_pub = site.publications | where: "area", "ga" | where: "status", "published" | sort: "date" | reverse %}
+<ul>
+{% assign ga_pub = site.publications
+  | where: "area", "ga"
+  | where: "status", "published"
+  | sort: "date"
+  | reverse %}
 {% for post in ga_pub %}
-  {% include archive-single.html %}
-  <div style="height:0.9em;"></div>
+  {% include publication-bullet.html post=post %}
 {% endfor %}
+</ul>
+
+</div>
+
+<script src="{{ '/assets/js/publications.js' | relative_url }}"></script>
