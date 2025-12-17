@@ -1,0 +1,42 @@
+{% assign p = include.post %}
+
+<li class="pubitem">
+  <span class="pub-authors">
+    {% if p.authors %}{{ p.authors }}.{% endif %}
+  </span>
+  <span class="pub-title">
+    <em>
+      {% if p.paperurl %}
+        <a href="{{ p.paperurl }}">{{ p.title }}</a>
+      {% else %}
+        {{ p.title }}
+      {% endif %}
+    </em>
+  </span>
+
+  <span class="pub-links">
+    {% if p.abstract %}
+      <a class="pub-abs" href="#" data-abs-id="abs-{{ p.slug | default: p.date | date: '%Y%m%d' }}-{{ forloop.index0 }}">[abstract]</a>
+    {% endif %}
+
+    {% if p.pdfurl %}
+      <a href="{{ p.pdfurl }}">[PDF]</a>
+    {% endif %}
+
+    {% if p.status == "preprint" and p.arxiv %}
+      <span class="pub-meta">preprint, arXiv:{{ p.arxiv }}</span>
+    {% elsif p.venue %}
+      <span class="pub-meta">{{ p.venue }}</span>
+    {% endif %}
+
+    {% if p.doi %}
+      <a href="https://doi.org/{{ p.doi }}">[DOI]</a>
+    {% endif %}
+  </span>
+
+  {% if p.abstract %}
+    <div class="pub-abstract" id="abs-{{ p.slug | default: p.date | date: '%Y%m%d' }}-{{ forloop.index0 }}">
+      {{ p.abstract | markdownify }}
+    </div>
+  {% endif %}
+</li>
