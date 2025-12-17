@@ -2,51 +2,40 @@
 {% assign abs_id = "abs-" | append: p.url | slugify %}
 
 <li class="pubitem">
-  {% if p.authors %}
-    <span class="pub-authors">{{ p.authors }}.</span>
-  {% endif %}
 
+  <span class="pub-authors">{{ p.authors }}.</span>
   <span class="pub-title">
     <em>
-      {% if p.paperurl %}
-        <a href="{{ p.paperurl }}">{{ p.title }}</a>
-      {% else %}
-        {{ p.title }}
-      {% endif %}
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
     </em>
   </span>
-
   {% if p.venue %}
-    <span class="pub-venue">{{ p.venue }}</span>
+  <span class="pub-meta">
+    {{ p.venue }}
+  </span>
   {% endif %}
 
-  <span class="pub-links">
+  {% if p.pdfurl or p.arxiv or p.paperurl or p.abstract %}
+  <div class="pub-links">
     {% if p.pdfurl %}
-      <a href="{{ p.pdfurl }}">[PDF]</a>
+      <a href="{{ p.pdfurl }}" target="_blank" rel="noopener noreferrer">[PDF]</a>
     {% endif %}
     {% if p.arxiv %}
-      <a href="https://arxiv.org/abs/{{ p.arxiv }}">[arXiv]</a>
+      <a href="https://arxiv.org/abs/{{ p.arxiv }}" target="_blank" rel="noopener noreferrer">[arXiv]</a>
     {% endif %}
-    {% if p.doi %}
-      <a href="https://doi.org/{{ p.doi }}">[DOI]</a>
+    {% if p.paperurl %}
+      <a href="{{ p.paperurl }}" target="_blank" rel="noopener noreferrer">[DOI]</a>
     {% endif %}
-
-    {% if p.abstract or p.content %}
+    {% if p.abstract %}
       <a href="#" class="pub-abs-toggle" data-target="{{ abs_id }}">[abstract]</a>
     {% endif %}
-  </span>
+  </div>
+  {% endif %}
 
   {% if p.abstract %}
-    <div class="pub-abstract" id="{{ abs_id }}">
-      {{ p.abstract | markdownify }}
-    </div>
-  {% else %}
-    {%- comment -%}
-    Fallback: use the page body as the abstract if no front-matter abstract exists.
-    Keep the body short if you choose this route.
-    {%- endcomment -%}
-    <div class="pub-abstract" id="{{ abs_id }}">
-      {{ p.content | markdownify }}
-    </div>
+  <div class="pub-abstract" id="{{ abs_id }}">
+    {{ p.abstract | markdownify }}
+  </div>
   {% endif %}
+
 </li>
