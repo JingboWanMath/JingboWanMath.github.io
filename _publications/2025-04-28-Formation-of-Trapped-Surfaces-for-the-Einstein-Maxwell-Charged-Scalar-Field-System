@@ -1,12 +1,31 @@
 ---
-title: "Formation of Trapped Surfaces for the Einstein–Maxwell–Charged Scalar Field System (joint with Dawei Shen)"
+title: "Formation of Trapped Surfaces for the Einstein–Maxwell–Charged Scalar Field System"
+authors: "D. Shen, J. Wan"
 collection: publications
 date: 2025-04-28
-venue: ""
-excerpt: "We prove scale-critical trapped surface formation for the Einstein–Maxwell–charged scalar field system."
-paperurl: "https://arxiv.org/abs/2504.19976"
+
 area: gr
 status: preprint
----
 
-In this paper, we prove a scale-critical trapped surface formation result for the Einstein–Maxwell–charged scalar field system without symmetry assumptions, together with a nontrivial charging process along past null infinity.
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2504.19976"
+pdfurl: "https://arxiv.org/pdf/2504.19976.pdf"
+arxiv: "2504.19976"
+
+excerpt: "Scale-critical formation of trapped surfaces for the Einstein–Maxwell–charged scalar field system without symmetry assumptions."
+
+abstract: >
+  We prove a scale-critical trapped surface formation result for the
+  Einstein–Maxwell–charged scalar field (EMCSF) system without imposing any
+  symmetry assumptions. Starting from regular characteristic initial data
+  prescribed at past null infinity, we establish a semi-global existence
+  theorem at the critical scale and show that the focusing of gravitational
+  waves, the concentration of electromagnetic fields, or the condensation of
+  the complex scalar field can each independently lead to the formation of a
+  trapped surface. In addition, we capture a nontrivial charging process
+  occurring along past null infinity, which introduces new analytical
+  difficulties due to the abnormal behavior of the matter fields. Despite
+  these challenges, both the semi-global existence result and the trapped
+  surface formation remain valid.
+---
