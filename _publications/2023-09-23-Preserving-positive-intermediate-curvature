@@ -1,6 +1,11 @@
 ---
 title: "Preserving Positive Intermediate Curvature"
-authors: "T.-K. Aaron Chow, F. Johne, J. Wan"
+authors:
+  - name: "T.-K. Aaron Chow"
+    url: "https://sites.google.com/view/aaronchow/home/"
+  - name: "F. Johne"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2023-09-23
 
