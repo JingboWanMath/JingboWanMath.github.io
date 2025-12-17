@@ -1,6 +1,14 @@
 ---
 title: "Constructing Entire Minimal Graphs by Evolving Planes"
-authors: "C.-J. Tsai, M.-P. Tsui, J. Wan, M.-T. Wang"
+authors:
+  - name: "C.-J. Tsai"
+    url: "http://homepage.ntu.edu.tw/~cjtsai/research.html"
+  - name: "M.-P. Tsui"
+    url: "https://scholar.google.com/citations?user=LNik3bAAAAAJ&hl=en"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+  - name: "M.-T. Wang"
+    url: "https://sites.google.com/view/columbia-prof-mutaowang/biography"
 collection: publications
 date: 2025-10-28
 
