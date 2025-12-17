@@ -1,6 +1,10 @@
 ---
 title: "Rigidity of Contracting Maps Using Harmonic Map Heat Flow"
-authors: "M.-C. Lee, J. Wan"
+authors:
+  - name: "M.-C. Lee"
+    url: "https://sites.google.com/view/mcleemath/home"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2023-06-21
 
