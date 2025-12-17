@@ -1,6 +1,11 @@
 ---
 title: "Uniqueness Theorems of Self-Conformal Solutions to Inverse Curvature Flows"
-authors: "Nicholas C.-H. Chin, Frederick T.-H. Fong, J. Wan"
+authors:
+  - name: "N. C.-H. Chin"
+  - name: "F. T.-H. Fong"
+    url: "https://frederickfong.notion.site/"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2020-11-01
 
