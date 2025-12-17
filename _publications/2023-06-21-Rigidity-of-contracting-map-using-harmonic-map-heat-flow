@@ -1,14 +1,26 @@
 ---
-title: "Rigidity of Contracting Maps Using Harmonic Map Heat Flow (joint with Man-Chun Lee)"
+title: "Rigidity of Contracting Maps Using Harmonic Map Heat Flow"
+authors: "Man-Chun Lee, Jingbo Wan"
 collection: publications
 date: 2023-06-21
-venue: "Proc. Amer. Math. Soc.(to appear)."
-excerpt: "This paper investigates the rigidity of maps between compact manifolds with positive curvature, based on the harmonic map heat flow approach."
-paperurl: "https://arxiv.org/abs/2306.12258"
+
 area: ga
 status: accepted
+
+venue: "Proc. Amer. Math. Soc. (to appear)"
+
+paperurl: "https://doi.org/10.48550/arXiv.2306.12258"
+pdfurl: "https://arxiv.org/pdf/2306.12258.pdf"
+arxiv: "2306.12258"
+
+excerpt: "Rigidity results for contracting maps between positively curved manifolds via the harmonic map heat flow."
+
+abstract: >
+  Motivated by recent work of Tsai–Tsui–Wang, we study rigidity phenomena for
+  maps between compact manifolds with positive curvature. We show that a
+  distance non-increasing map between complex projective spaces is either an
+  isometry or homotopically trivial. The rigidity result extends to a broader
+  class of manifolds with positive curvature under a weaker contracting
+  condition, interpolating between distance non-increasing and area
+  non-increasing. The analysis is based on the harmonic map heat flow.
 ---
-
-Motivated by the recent work of Tsai-Tsui-Wang, we study the rigidity of maps between compact manifolds with positive curvature. We show that a distance non-increasing map between complex projective spaces is either an isometry or homotopically trivial.  
-
-The rigidity result also extends to a broader class of manifolds with positive curvature under a weaker contracting condition on the map, interpolating between distance non-increasing and area non-increasing. This approach is based on the harmonic map heat flow.
