@@ -49,37 +49,27 @@ h3 {
 }
 
 /* =========================================================
-   Publications (two-line structure)
-   Line 1: authors + title
-   Line 2: [PDF][DOI][abstract] + venue (smaller)
+   Publications (bibliography-style)
    ========================================================= */
 
 .pubitem {
-  margin: 0 0 1.35rem 0;
+  margin: 0 0 1.6rem 0;
   line-height: 1.55;
 }
 
-/* Optional wrappers if you add them in the include */
-.pub-line1 { display: block; }
-.pub-line2 {
-  display: block;
-  margin-top: 0.25rem;
-  margin-left: 1.2rem;
-  font-size: 0.85em;
-  line-height: 1.35;
-  opacity: 0.95;
+/* Authors */
+.pub-authors {
+  font-weight: 500;
 }
 
-/* Authors: color + hover */
-.pub-authors { font-weight: 500; }
-
+/* Force author color (override theme) */
 .publist .pubitem .pub-authors,
 .publist .pubitem .pub-authors * {
-  color: #2f6f8f !important;
+  color: #2f6f8f !important;   /* muted academic blue */
 }
 
+/* Author links */
 .pub-authors a {
-  color: inherit !important;
   text-decoration: none !important;
 }
 
@@ -89,25 +79,41 @@ h3 {
 }
 
 /* Title */
-.pub-title em { font-style: italic; }
-
-/* Venue */
-.pub-meta {
-  color: #444;
-  margin-left: 0.4rem; /* small separation after links */
+.pub-title em {
+  font-style: italic;
 }
 
-/* Links row */
+/* Venue / journal */
+.pub-meta {
+  color: #444;
+  margin-left: 0.25rem;
+}
+
+/* Links row: new line + smaller */
+.pub-links {
+  display: block;
+  margin-top: 0.25rem;
+  margin-left: 1.2rem;
+  font-size: 0.85em;
+  line-height: 1.35;
+  opacity: 0.9;
+}
+
 .pub-links a {
   margin-right: 0.55rem;
   text-decoration: none;
 }
 
-.pub-links a:hover { text-decoration: underline; }
+.pub-links a:hover {
+  text-decoration: underline;
+}
 
-/* Abstract toggle + box */
-.pub-abs-toggle { cursor: pointer; }
+/* Abstract toggle */
+.pub-abs-toggle {
+  cursor: pointer;
+}
 
+/* Abstract box */
 .pub-abstract {
   display: none;
   margin: 0.6rem 0 0 1.2rem;
@@ -118,7 +124,9 @@ h3 {
   line-height: 1.55;
 }
 
-.pub-abstract.is-open { display: block; }
+.pub-abstract.is-open {
+  display: block;
+}
 
 /* =========================================================
    Wider academic layout
