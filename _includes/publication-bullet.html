@@ -3,44 +3,46 @@
 
 <li class="pubitem">
 
-  <span class="pub-authors">
-    {% for a in p.authors %}
-      {% if a.url %}
-        <a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.name }}</a>{% unless forloop.last %}, {% endunless %}
-      {% else %}
-        {{ a.name }}{% unless forloop.last %}, {% endunless %}
+  <!-- Line 1: authors, title -->
+  <div class="pub-line1">
+    <span class="pub-authors">
+      {% if p.authors %}
+        {% for a in p.authors %}
+          {% if a.url %}
+            <a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.name }}</a>{% unless forloop.last %}, {% endunless %}
+          {% else %}
+            {{ a.name }}{% unless forloop.last %}, {% endunless %}
+          {% endif %}
+        {% endfor %}
       {% endif %}
-    {% endfor %}.
-  </span>
+    </span><span class="pub-sep">.</span>
+    <span class="pub-title"><em>{{ p.title }}</em></span>
+  </div>
 
-  <span class="pub-title">
-    <em>{{ p.title }}</em>
-  </span>
+  <!-- Line 2: links + venue (same line) -->
+  <div class="pub-line2">
+    <span class="pub-links">
+      {% if p.pdfurl %}
+        <a href="{{ p.pdfurl }}" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      {% endif %}
+      {% if p.paperurl %}
+        <a href="{{ p.paperurl }}" target="_blank" rel="noopener noreferrer">[DOI]</a>
+      {% endif %}
+      {% if p.abstract %}
+        <a href="#" class="pub-abs-toggle" data-target="{{ abs_id }}">[abstract]</a>
+      {% endif %}
+    </span>
 
-  {% if p.venue %}
-  <span class="pub-meta">
-    {{ p.venue }}
-  </span>
-  {% endif %}
-
-  {% if p.pdfurl or p.paperurl or p.abstract %}
-  <div class="pub-links">
-    {% if p.pdfurl %}
-      <a href="{{ p.pdfurl }}" target="_blank" rel="noopener noreferrer">[PDF]</a>
-    {% endif %}
-    {% if p.paperurl %}
-      <a href="{{ p.paperurl }}" target="_blank" rel="noopener noreferrer">[DOI]</a>
-    {% endif %}
-    {% if p.abstract %}
-      <a href="#" class="pub-abs-toggle" data-target="{{ abs_id }}">[abstract]</a>
+    {% if p.venue %}
+      <span class="pub-meta">{{ p.venue }}</span>
     {% endif %}
   </div>
-  {% endif %}
 
+  <!-- Hidden abstract -->
   {% if p.abstract %}
-  <div class="pub-abstract" id="{{ abs_id }}">
-    {{ p.abstract | markdownify }}
-  </div>
+    <div class="pub-abstract" id="{{ abs_id }}">
+      {{ p.abstract | markdownify }}
+    </div>
   {% endif %}
 
 </li>
