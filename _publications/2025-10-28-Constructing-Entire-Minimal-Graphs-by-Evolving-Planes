@@ -1,14 +1,30 @@
 ---
-title: "Constructing Entire Minimal Graphs by Evolving Planes (joint with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang)"
+title: "Constructing Entire Minimal Graphs by Evolving Planes"
+authors: "C.-J. Tsai, M.-P. Tsui, J. Wan, M.-T. Wang"
 collection: publications
 date: 2025-10-28
-venue: ""
-excerpt: "We introduce an evolving-plane ansatz that reduces the minimal surface system to a geodesic equation on the Grassmannian, yielding explicit families of entire minimal graphs in arbitrary codimension."
-paperurl: "https://arxiv.org/abs/2510.24978"
+
 area: ga
 status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2510.24978"
+pdfurl: "https://arxiv.org/pdf/2510.24978.pdf"
+arxiv: "2510.24978"
+
+excerpt: "An evolving-plane ansatz reducing the minimal surface system to a Grassmannian geodesic equation, yielding explicit entire minimal graphs in arbitrary codimension."
+
+abstract: >
+  We introduce an evolving-plane ansatz for the explicit construction of entire
+  minimal graphs of dimension $n$ ($n \ge 3$) and codimension $m$ ($m \ge 2$),
+  for any odd integer $n$. Under this ansatz, the minimal surface system reduces
+  to the geodesic equation on the Grassmannian in affine coordinates. From a
+  geometric perspective, this equation governs how the slope of an
+  $(n-1)$-plane evolves as it sweeps out a minimal graph.
+
+  This framework yields a rich family of explicit entire minimal graphs of odd
+  dimension $n$ and arbitrary codimension $m$. Moreover, for each such entire
+  minimal graph, its conormal bundle gives rise to an entire special Lagrangian
+  graph in $\mathbb{C}^{n+m}$.
 ---
-
-We introduce an evolving-plane ansatz for the explicit construction of entire minimal graphs of dimension \(n\) (\(n \ge 3\)) and codimension \(m\) (\(m \ge 2\)), for any odd integer \(n\). Under this ansatz, the minimal surface system reduces to the geodesic equation on the Grassmannian in affine coordinates. Geometrically, this equation governs how the slope of an \((n-1)\)-plane evolves as it sweeps out a minimal graph.
-
-This framework yields a rich family of explicit entire minimal graphs of odd dimension \(n\) and arbitrary codimension \(m\). For each such entire minimal graph, its conormal bundle gives rise to an entire special Lagrangian graph in \(\mathbb{C}^{n+m}\).
