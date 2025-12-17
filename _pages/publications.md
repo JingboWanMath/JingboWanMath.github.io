@@ -14,7 +14,7 @@ You can also find an up-to-date list on
 
 {% include base_path %}
 
-<div class="publist">
+<div class="publist" markdown="1">
 
 ## General Relativity & Hyperbolic PDE
 
