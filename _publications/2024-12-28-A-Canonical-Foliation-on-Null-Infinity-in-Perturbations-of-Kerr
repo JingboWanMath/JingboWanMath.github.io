@@ -1,6 +1,12 @@
 ---
 title: "A Canonical Foliation on Null Infinity in Perturbations of Kerr"
-authors: "S. Klainerman, D. Shen, J. Wan"
+authors:
+  - name: "S. Klainerman"
+    url: "https://web.math.princeton.edu/~seri/homepage/"
+  - name: "D. Shen"
+    url: "https://sites.google.com/view/daweishen/home"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2024-12-28
 
