@@ -172,14 +172,15 @@ hr {
   }
 }
 
-/* ===== Publications: classic bullet list ===== */
+/* ===== Publications: classic bullet list (clean + readable) ===== */
+
 .publist { margin-top: 1rem; }
 
 .publist ul { margin-left: 1.2rem; }
 
 .pubitem {
-  margin: 0 0 1.2rem 0;
-  line-height: 1.5;
+  margin: 0 0 1.6rem 0;   /* more separation between items */
+  line-height: 1.55;
 }
 
 .pub-authors { font-weight: 500; }
@@ -188,29 +189,42 @@ hr {
 
 .pub-title a { text-decoration: none; }
 
-.pub-links {
-  margin-left: 0.35rem;
-  font-size: 0.95em;
+.pub-meta {
+  color: #444;
+  margin-left: 0.25rem;
 }
 
-.pub-links a { margin-right: 0.35rem; }
+/* Links row: next line + smaller font */
+.pub-links {
+  display: block;          /* force new line */
+  margin-top: 0.25rem;
+  margin-left: 1.2rem;     /* align under text after bullet */
+  font-size: 0.85em;       /* smaller */
+  line-height: 1.35;
+  opacity: 0.9;
+}
 
-.pub-meta { color: #444; }
+.pub-links a {
+  margin-right: 0.55rem;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
 
 /* Abstract toggle */
-.pub-abs-toggle {
-  cursor: pointer;
-}
+.pub-abs-toggle { cursor: pointer; }
 
+/* Abstract box */
 .pub-abstract {
   display: none;
-  margin: 0.6rem 0 0 1.1rem;
+  margin: 0.6rem 0 0 1.2rem;
   padding-left: 0.9rem;
   border-left: 2px solid #ddd;
   max-width: 75ch;
-  font-size: 0.95em;
+  font-size: 0.9em;        /* slightly smaller than body */
+  line-height: 1.55;
 }
 
-.pub-abstract.is-open {
-  display: block;
-}
+.pub-abstract.is-open { display: block; }
