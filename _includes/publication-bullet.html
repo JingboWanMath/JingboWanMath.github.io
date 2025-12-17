@@ -4,7 +4,13 @@
 <li class="pubitem">
 
   <span class="pub-authors">
-    <a href="{{ p.url | relative_url }}">{{ p.authors }}</a>.
+    {% for a in p.authors %}
+      {% if a.url %}
+        <a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.name }}</a>{% unless forloop.last %}, {% endunless %}
+      {% else %}
+        {{ a.name }}{% unless forloop.last %}, {% endunless %}
+      {% endif %}
+    {% endfor %}.
   </span>
 
   <span class="pub-title">
