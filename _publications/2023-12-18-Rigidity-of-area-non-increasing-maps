@@ -1,14 +1,28 @@
 ---
-title: "Rigidity of area non-increasing maps (joint with Man-Chun Lee and Luen-Fai Tam)"
+title: "Rigidity of Area Non-Increasing Maps"
+authors: "M.-C. Lee, L.-F. Tam, J Wan"
 collection: publications
-date: 2023-12-18
-venue: "Accepted by Trans. Amer. Math. Soc."
-excerpt: "This paper explores the rigidity of area non-increasing maps between compact manifolds with positive curvature."
-paperurl: "https://arxiv.org/abs/2312.10940"
+date: 2025-01-01
+
 area: ga
-status: accepted
+status: published
+
+venue: "Trans. Amer. Math. Soc. 378 (2025), 2797–2827"
+
+paperurl: "https://doi.org/10.1090/tran/9399"
+pdfurl: "https://arxiv.org/pdf/2312.10940.pdf"
+arxiv: "2312.10940"
+
+excerpt: "Rigidity results for area non-increasing maps between compact manifolds with positive curvature."
+
+abstract: >
+  In this work, we study area non-increasing maps between manifolds with positive
+  curvature. By employing the strong maximum principle along the graphical mean
+  curvature flow, we show that such maps are either homotopically trivial,
+  Riemannian submersions, local isometries, or isometric immersions, confirming
+  a conjecture of Tsai–Tsui–Wang.
+
+  In addition, we combine Brendle’s sphere theorem with the mean curvature flow
+  coupled to the Ricci flow to establish related rigidity results on manifolds
+  with positive \(1\)-isotropic curvature.
 ---
-
-In this work, we consider area non-increasing maps between manifolds with positive curvature. By employing the strong maximum principle along the graphical mean curvature flow, we show that such maps are either homotopy trivial, Riemannian submersions, local isometries, or isometric immersions. This confirms the speculation of Tsai-Tsui-Wang.  
-
-Additionally, we utilize Brendle's sphere theorem and the mean curvature flow coupled with Ricci flow to establish related results on manifolds with positive 1-isotropic curvature.
