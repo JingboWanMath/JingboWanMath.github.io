@@ -49,12 +49,30 @@ h3 {
 }
 
 /* =========================================================
-   Publications (bibliography-style)
+   Publications (two-line bibliography-style)
+   Requires publication-bullet.html to use:
+   <div class="pub-line1"> ... </div>
+   <div class="pub-line2"> ... </div>
    ========================================================= */
 
 .pubitem {
-  margin: 0 0 1.6rem 0;
+  margin: 0 0 1.35rem 0;
   line-height: 1.55;
+}
+
+/* Line 1: authors + title */
+.pub-line1 {
+  display: block;
+}
+
+/* Line 2: links + venue (same line), smaller */
+.pub-line2 {
+  display: block;
+  margin-top: 0.25rem;
+  margin-left: 1.2rem;
+  font-size: 0.85em;
+  line-height: 1.35;
+  opacity: 0.95;
 }
 
 /* Authors */
@@ -83,22 +101,7 @@ h3 {
   font-style: italic;
 }
 
-/* Venue / journal */
-.pub-meta {
-  color: #444;
-  margin-left: 0.25rem;
-}
-
-/* Links row: new line + smaller */
-.pub-links {
-  display: block;
-  margin-top: 0.25rem;
-  margin-left: 1.2rem;
-  font-size: 0.85em;
-  line-height: 1.35;
-  opacity: 0.9;
-}
-
+/* Links inline */
 .pub-links a {
   margin-right: 0.55rem;
   text-decoration: none;
@@ -106,6 +109,12 @@ h3 {
 
 .pub-links a:hover {
   text-decoration: underline;
+}
+
+/* Venue / journal (same line as links) */
+.pub-meta {
+  color: #444;
+  margin-left: 0.4rem;
 }
 
 /* Abstract toggle */
