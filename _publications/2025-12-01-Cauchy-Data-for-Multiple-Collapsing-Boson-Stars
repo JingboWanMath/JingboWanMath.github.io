@@ -1,6 +1,12 @@
 ---
 title: "Cauchy Data for Multiple Collapsing Boson Stars"
-authors: "E. Giorgi, D. Shen, J. Wan"
+authors:
+  - name: "E. Giorgi"
+    url: "https://www.math.columbia.edu/~egiorgi/"
+  - name: "D. Shen"
+    url: "https://sites.google.com/view/daweishen/home"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2025-12-01
 
