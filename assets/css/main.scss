@@ -232,18 +232,18 @@ hr {
 
 .pub-abstract.is-open { display: block; }
 
-/* ===== Publication authors styling ===== */
-.pub-authors {
-  color: #2f6f8f;        /* muted academic blue */
+/* ===== Publication authors styling (override theme) ===== */
+.publist .pubitem .pub-authors,
+.publist .pubitem .pub-authors * {
+  color: #2f6f8f !important;   /* muted academic blue */
   font-weight: 500;
 }
 
-.pub-authors a {
-  color: #2f6f8f;
-  text-decoration: none;
+.publist .pubitem .pub-authors a {
+  text-decoration: none !important;
 }
 
-.pub-authors a:hover {
-  color: #1f4e64;        /* slightly darker on hover */
-  text-decoration: underline;
+.publist .pubitem .pub-authors a:hover {
+  color: #1f4e64 !important;   /* slightly darker on hover */
+  text-decoration: underline !important;
 }
