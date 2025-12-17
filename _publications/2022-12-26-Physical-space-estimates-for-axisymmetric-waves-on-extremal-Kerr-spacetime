@@ -1,12 +1,27 @@
 ---
-title: "Physical-space estimates for axisymmetric waves on extremal Kerr spacetime (joint with Elena Giorgi)"
+title: "Physical-Space Estimates for Axisymmetric Waves on Extremal Kerr Spacetime"
+authors: "Elena Giorgi, Jingbo Wan"
 collection: publications
 date: 2022-12-26
-venue: "J. Funct. Anal. 287 (12), 110668"
-excerpt: "This paper establishes physical-space Morawetz estimates for axisymmetric waves on extremal Kerr spacetime using the vector field method."
-paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0022123624003562"
+
 area: gr
 status: published
----
 
-We study axisymmetric solutions to the wave equation on extremal Kerr backgrounds and obtain integrated local energy decay (or Morawetz estimates) through an analysis conducted *exclusively in physical space*. The boundedness of the energy and Morawetz estimates for axisymmetric waves in extremal Kerr were first obtained by Aretakis through frequency-localized currents, which were used to express the trapping degeneracy. Here, we extend to extremal Kerr a method introduced by Stogin in the sub-extremal case, simplifying Aretakis' derivation of Morawetz estimates through purely classical currents.
+venue: "J. Funct. Anal. 287 (2024), no. 12, 110668"
+
+paperurl: "https://doi.org/10.1016/j.jfa.2024.110668"
+pdfurl: "https://arxiv.org/pdf/2212.13164.pdf"
+arxiv: "2212.13164"
+
+excerpt: "Physical-space Morawetz estimates for axisymmetric solutions of the wave equation on extremal Kerr spacetimes."
+
+abstract: >
+  We study axisymmetric solutions to the wave equation on extremal Kerr
+  backgrounds and obtain integrated local energy decay (Morawetz estimates)
+  through an analysis conducted exclusively in physical space. The boundedness
+  of the energy and Morawetz estimates for axisymmetric waves in extremal Kerr
+  were first obtained by Aretakis through frequency-localized currents, which
+  were used to express the trapping degeneracy. Here, we extend to extremal Kerr
+  a method introduced by Stogin in the sub-extremal case, simplifying Aretakis'
+  derivation of Morawetz estimates through purely classical currents.
+---
