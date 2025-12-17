@@ -14,6 +14,8 @@ You can also find an up-to-date list on
 
 {% include base_path %}
 
+<div class="publist">
+
 ## General Relativity & Hyperbolic PDE
 
 ### Preprints
@@ -91,3 +93,5 @@ You can also find an up-to-date list on
   {% include publication-bullet.html post=post %}
 {% endfor %}
 </ul>
+
+</div>
