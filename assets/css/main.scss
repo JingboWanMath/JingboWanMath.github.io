@@ -171,3 +171,37 @@ hr {
     max-width: 1000px;
   }
 }
+
+/* ===== Publications: classic bullet list ===== */
+.publist { margin-top: 1rem; }
+
+.publist ul { margin-left: 1.2rem; }
+
+.pubitem {
+  margin: 0 0 1.2rem 0;
+  line-height: 1.5;
+}
+
+.pub-authors { font-weight: 500; }
+
+.pub-title em { font-style: italic; }
+
+.pub-title a { text-decoration: none; }
+
+.pub-links {
+  margin-left: 0.35rem;
+  font-size: 0.95em;
+}
+
+.pub-links a { margin-right: 0.35rem; }
+
+.pub-meta { color: #444; }
+
+/* Abstract toggle */
+.pub-abstract {
+  display: none;
+  margin: 0.6rem 0 0 1.1rem;
+  max-width: 70ch;
+}
+
+.pub-abstract.is-open { display: block; }
