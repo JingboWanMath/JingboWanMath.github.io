@@ -3,19 +3,21 @@
 
 <li class="pubitem">
 
-  <span class="pub-authors">{{ p.authors }}.</span>
-  <span class="pub-title">
-    <em>
-      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-    </em>
+  <span class="pub-authors">
+    <a href="{{ p.url | relative_url }}">{{ p.authors }}</a>.
   </span>
+
+  <span class="pub-title">
+    <em>{{ p.title }}</em>
+  </span>
+
   {% if p.venue %}
   <span class="pub-meta">
     {{ p.venue }}
   </span>
   {% endif %}
 
-  {% if p.pdfurl or p.arxiv or p.paperurl or p.abstract %}
+  {% if p.pdfurl or p.paperurl or p.abstract %}
   <div class="pub-links">
     {% if p.pdfurl %}
       <a href="{{ p.pdfurl }}" target="_blank" rel="noopener noreferrer">[PDF]</a>
