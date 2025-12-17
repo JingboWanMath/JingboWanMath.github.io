@@ -198,10 +198,19 @@ hr {
 .pub-meta { color: #444; }
 
 /* Abstract toggle */
+.pub-abs-toggle {
+  cursor: pointer;
+}
+
 .pub-abstract {
   display: none;
   margin: 0.6rem 0 0 1.1rem;
-  max-width: 70ch;
+  padding-left: 0.9rem;
+  border-left: 2px solid #ddd;
+  max-width: 75ch;
+  font-size: 0.95em;
 }
 
-.pub-abstract.is-open { display: block; }
+.pub-abstract.is-open {
+  display: block;
+}
