@@ -49,10 +49,9 @@ h3 {
 }
 
 /* =========================================================
-   Publications (two-line bibliography-style)
-   Requires publication-bullet.html to use:
-   <div class="pub-line1"> ... </div>
-   <div class="pub-line2"> ... </div>
+   Publications (two-line structure)
+   Line 1: authors + title
+   Line 2: [PDF][DOI][abstract] + venue (smaller)
    ========================================================= */
 
 .pubitem {
@@ -60,12 +59,8 @@ h3 {
   line-height: 1.55;
 }
 
-/* Line 1: authors + title */
-.pub-line1 {
-  display: block;
-}
-
-/* Line 2: links + venue (same line), smaller */
+/* Optional wrappers if you add them in the include */
+.pub-line1 { display: block; }
 .pub-line2 {
   display: block;
   margin-top: 0.25rem;
@@ -75,19 +70,16 @@ h3 {
   opacity: 0.95;
 }
 
-/* Authors */
-.pub-authors {
-  font-weight: 500;
-}
+/* Authors: color + hover */
+.pub-authors { font-weight: 500; }
 
-/* Force author color (override theme) */
 .publist .pubitem .pub-authors,
 .publist .pubitem .pub-authors * {
-  color: #2f6f8f !important;   /* muted academic blue */
+  color: #2f6f8f !important;
 }
 
-/* Author links */
 .pub-authors a {
+  color: inherit !important;
   text-decoration: none !important;
 }
 
@@ -97,32 +89,25 @@ h3 {
 }
 
 /* Title */
-.pub-title em {
-  font-style: italic;
+.pub-title em { font-style: italic; }
+
+/* Venue */
+.pub-meta {
+  color: #444;
+  margin-left: 0.4rem; /* small separation after links */
 }
 
-/* Links inline */
+/* Links row */
 .pub-links a {
   margin-right: 0.55rem;
   text-decoration: none;
 }
 
-.pub-links a:hover {
-  text-decoration: underline;
-}
+.pub-links a:hover { text-decoration: underline; }
 
-/* Venue / journal (same line as links) */
-.pub-meta {
-  color: #444;
-  margin-left: 0.4rem;
-}
+/* Abstract toggle + box */
+.pub-abs-toggle { cursor: pointer; }
 
-/* Abstract toggle */
-.pub-abs-toggle {
-  cursor: pointer;
-}
-
-/* Abstract box */
 .pub-abstract {
   display: none;
   margin: 0.6rem 0 0 1.2rem;
@@ -133,9 +118,7 @@ h3 {
   line-height: 1.55;
 }
 
-.pub-abstract.is-open {
-  display: block;
-}
+.pub-abstract.is-open { display: block; }
 
 /* =========================================================
    Wider academic layout
