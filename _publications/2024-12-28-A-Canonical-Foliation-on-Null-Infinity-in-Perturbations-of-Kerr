@@ -1,14 +1,30 @@
 ---
-title: "A Canonical Foliation on Null Infinity in Perturbations of Kerr (joint with Sergiu Klainerman and Dawei Shen)"
+title: "A Canonical Foliation on Null Infinity in Perturbations of Kerr"
+authors: "S. Klainerman, D. Shen, J. Wan"
 collection: publications
 date: 2024-12-28
-venue: ""
-excerpt: "This paper constructs a canonical foliation on null infinity in perturbations of Kerr spacetimes."
-paperurl: "https://arxiv.org/abs/2412.20119"
+
 area: gr
 status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2412.20119"
+pdfurl: "https://arxiv.org/pdf/2412.20119.pdf"
+arxiv: "2412.20119"
+
+excerpt: "Construction of a canonical foliation on future null infinity for perturbations of Kerr spacetimes, yielding well-defined radiative charges."
+
+abstract: >
+  Kerr stability for small angular momentum has been established in a series
+  of works by Klainerman–Szeftel, Giorgi–Klainerman–Szeftel, and Shen. Building
+  on the existence and uniqueness theory of GCM spheres developed by
+  Klainerman–Szeftel, we construct a canonical foliation of future null
+  infinity for perturbations of Kerr spacetime. For this foliation, the null
+  energy, linear momentum, center of mass, and angular momentum are
+  well-defined and satisfy the expected physical laws of gravitational
+  radiation. The rigidity of the construction eliminates the usual
+  ambiguities present in the physics literature. We further show that, under
+  the assumptions of the Kerr stability framework, the center of mass of the
+  black hole undergoes a large recoil following the perturbation.
 ---
-
-Kerr stability for small angular momentum has been proved in the series of works by Klainerman–Szeftel, Giorgi–Klainerman–Szeftel, and Shen.  
-
-In this paper, based on the existence and uniqueness results for GCM spheres by Klainerman–Szeftel, we establish the existence of a canonical foliation on the future null infinity for which the null energy, linear momentum, center of mass, and angular momentum are well-defined and satisfy the expected physical laws of gravitational radiation. The rigid character of this foliation eliminates the usual ambiguities in the physics literature. We also show that the center of mass of the black hole undergoes a large recoil after the perturbation.
