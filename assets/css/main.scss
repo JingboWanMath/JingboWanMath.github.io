@@ -40,189 +40,69 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* ---- Ultra-soft academic typography (publications focused) ---- */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=IBM+Plex+Serif:wght@400;500&display=swap");
+/* =========================================================
+   Publications-only tweaks (safe: does NOT touch global UI)
+   ========================================================= */
 
-html {
-  font-size: 15.5px; /* smaller overall */
-}
-
-body {
-  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  line-height: 1.75;
-  color: #333;
-}
-
-/* Headings & UI */
-h1, h2, h3, h4, h5, h6,
-.masthead,
-.greedy-nav,
-.nav__title,
-.nav__list,
-.page__meta,
-.archive__item-meta,
-.btn {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-}
-
-/* Soften all headings */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 500;
-  letter-spacing: -0.004em;
-}
-
-/* Page title */
-.page__title {
-  font-size: 1.65rem;
-  font-weight: 500;
-}
-
-/* Section headers */
-h2 {
-  font-size: 1.25rem;
-  margin-top: 1.6em;
-}
-
-h3 {
-  font-size: 1.05rem;
-  margin-top: 1.1em;
-}
-
-/* -------------------------------
-   PUBLICATION ENTRIES (KEY PART)
-   ------------------------------- */
-
-/* Title: bibliography-style, not headline */
-.archive__item-title {
-  font-size: 0.98rem;       /* SMALLER */
-  font-weight: 500;
-  line-height: 1.45;        /* compact multi-line */
-  margin-bottom: 0.2em;
-}
-
-/* Kill the big blue blog look */
-.archive__item-title a {
-  color: #2f5f78;           /* muted blue-gray */
-  text-decoration: none;
-}
-
-.archive__item-title a:hover {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-}
-
-/* Metadata (year / venue) */
-.archive__item-meta {
-  font-size: 0.8rem;
-  color: #777;
-  margin-bottom: 0.25em;
-}
-
-/* Abstract / excerpt */
-.archive__item-excerpt {
-  font-size: 0.92rem;
-  line-height: 1.6;
-  color: #555;
-}
-
-/* Reduce vertical dominance */
-.archive__item {
-  margin-bottom: 0.9em;
-}
-
-/* Gentle separators */
-hr {
-  margin: 1.8em 0;
-  opacity: 0.25;
-}
-
-/* Optional: better wrapping for long math titles */
-.archive__item-title {
-  hyphens: auto;
-  word-break: normal;
-}
-
-/* ---- Wider main content (academic homepage) ---- */
-
-/* Increase overall page width */
-.page {
-  max-width: 1200px;  /* default ~800–900px */
-}
-
-/* Main text column */
-.page__content {
-  max-width: 900px;   /* default ~700px */
-}
-
-/* Archive pages (Publications, Talks) */
-.archive {
-  max-width: 900px;
-}
-
-/* Slightly wider for large screens */
-@media (min-width: 1400px) {
-  .page {
-    max-width: 1300px;
-  }
-
-  .page__content,
-  .archive {
-    max-width: 1000px;
-  }
-}
-
-/* ===== Publications styling (after you moved the link to authors) ===== */
-
-.pubitem {
-  margin: 0 0 1.6rem 0;
+/* Overall spacing per entry */
+.publist .pubitem {
+  margin: 0 0 1.35rem 0;
   line-height: 1.55;
 }
 
-.pub-authors { font-weight: 500; }
-
-/* Authors are linked, but keep the “text” look */
-.pub-authors a {
-  color: inherit;
-  text-decoration: none;
+/* Authors: colored + linked */
+.publist .pub-authors,
+.publist .pub-authors * {
+  color: #2f6f8f !important;
+  font-weight: 500;
 }
 
-.pub-authors a:hover {
-  text-decoration: underline;
+.publist .pub-authors a {
+  text-decoration: none !important;
 }
 
-.pub-title em { font-style: italic; }
-
-.pub-meta {
-  color: #444;
-  margin-left: 0.25rem;
+.publist .pub-authors a:hover {
+  color: #1f4e64 !important;
+  text-decoration: underline !important;
 }
 
-/* Links row: next line + smaller font */
-.pub-links {
-  display: block;
-  margin-top: 0.25rem;
+/* Title */
+.publist .pub-title em {
+  font-style: italic;
+}
+
+/* Second line: [PDF][DOI][abstract] + venue */
+.publist .pub-line2 {
+  margin-top: 0.15rem;
   margin-left: 1.2rem;
   font-size: 0.85em;
   line-height: 1.35;
-  opacity: 0.9;
+  opacity: 0.95;
 }
 
-.pub-links a {
+.publist .pub-line2 .pub-links a {
   margin-right: 0.55rem;
   text-decoration: none;
 }
 
-.pub-links a:hover {
+.publist .pub-line2 .pub-links a:hover {
   text-decoration: underline;
 }
 
-/* Abstract toggle + box */
-.pub-abs-toggle { cursor: pointer; }
+.publist .pub-line2 .pub-meta {
+  color: #444;
+  margin-left: 0.4rem;
+}
 
-.pub-abstract {
+/* Abstract toggle */
+.publist .pub-abs-toggle {
+  cursor: pointer;
+}
+
+/* Abstract box */
+.publist .pub-abstract {
   display: none;
-  margin: 0.6rem 0 0 1.2rem;
+  margin: 0.55rem 0 0 1.2rem;
   padding-left: 0.9rem;
   border-left: 2px solid #ddd;
   max-width: 75ch;
@@ -230,20 +110,6 @@ hr {
   line-height: 1.55;
 }
 
-.pub-abstract.is-open { display: block; }
-
-/* ===== Publication authors styling (override theme) ===== */
-.publist .pubitem .pub-authors,
-.publist .pubitem .pub-authors * {
-  color: #2f6f8f !important;   /* muted academic blue */
-  font-weight: 500;
-}
-
-.publist .pubitem .pub-authors a {
-  text-decoration: none !important;
-}
-
-.publist .pubitem .pub-authors a:hover {
-  color: #1f4e64 !important;   /* slightly darker on hover */
-  text-decoration: underline !important;
+.publist .pub-abstract.is-open {
+  display: block;
 }
