@@ -1,6 +1,10 @@
 ---
 title: "Formation of Multiple Black Holes from Cauchy Data"
-authors: "D. Shen, J. Wan"
+authors:
+  - name: "D. Shen"
+    url: "https://sites.google.com/view/daweishen/home"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
 collection: publications
 date: 2025-06-19
 
