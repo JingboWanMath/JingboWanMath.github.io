@@ -19,7 +19,7 @@ redirect_from:
 
 ## 🧠 Research
 
-I work at the interface of **general relativity, geometric analysis, and nonlinear PDE**, with a focus on the **geometry and dynamics of black holes**, dispersive equations on curved spacetimes, and geometric evolution problems.
+I work at the interface of **general relativity, geometric analysis, and nonlinear PDE**, with a focus on the **geometry and dynamics of black holes**, dispersive equations on curved spacetimes, and geometric evolution problems. Recently, I have been interested in the **construction of solutions to nonlinear PDEs with special geometric or structural properties**, including the Einstein constraint equations, minimal graph systems in higher codimension, and other nonlinear geometric PDEs.
 
 ---
 
