@@ -31,6 +31,12 @@ See the full list on the [**Publications**](https://jingbowanmath.github.io/publ
 
 <ol>
 <li>
+(with Dawei Shen)  
+<em>Cauchy Data for Formation of Multiple Black Holes with Prescribed ADM Parameters</em>,  
+in preparation.
+</li>
+  
+<li>
 (with Elena Giorgi and Dawei Shen)  
 <em>Cauchy Data for Multiple Collapsing Boson Stars</em>,  
 arXiv:2512.01844 (2025). <strong>[preprint]</strong>
