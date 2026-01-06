@@ -1,0 +1,33 @@
+---
+title: "Cauchy Data for Formation of Multiple Black Holes with Prescribed ADM Parameters"
+authors:
+  - name: "D. Shen"
+    url: "https://sites.google.com/view/daweishen/home"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+collection: publications
+date: 2026-01-04
+
+area: gr
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2601.01517"
+pdfurl: "https://arxiv.org/pdf/2601.01517.pdf"
+arxiv: "2601.01517"
+
+excerpt: "Vacuum Cauchy initial data whose evolution leads to the formation of multiple black holes with independently prescribed ADM parameters."
+
+abstract: >
+  We construct smooth, asymptotically flat vacuum Cauchy initial data modeling a
+  relativistic collapsing $N$--body system, with independently prescribed ADM
+  energy, linear momentum, and angular momentum for each component, subject to the
+  timelike condition $\E > |\P|$.
+
+  The initial data contain no trapped surfaces. Nevertheless, their maximal
+  future development contains multiple causally independent trapped regions that
+  dynamically form from localized subsets of the initial slice. In particular,
+  for well-separated collapsing components with relative motion, the evolution is
+  expected to produce spacetimes containing multiple black holes.
+---
