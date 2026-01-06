@@ -33,7 +33,8 @@ See the full list on the [**Publications**](https://jingbowanmath.github.io/publ
 <li>
 (with Dawei Shen)  
 <em>Cauchy Data for Formation of Multiple Black Holes with Prescribed ADM Parameters</em>,  
-in preparation.
+arXiv:2601.01517 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2601.01517">arXiv</a>
 </li>
   
 <li>
