@@ -87,8 +87,9 @@ author:
   employer         : "Sorbonne University (LJLL, CNRS)"
   pubmed           : 
   googlescholar    : 
-  email(sorbonne)  : "jingbo.wan@sorbonne-universite.fr"
-  email(cnrs)      : "jingbo.wan@sorbonne-universite.fr"
+  email: >
+  <a href="mailto:jingbo.wan@cnrs.fr">jingbo.wan@cnrs.fr</a><br>
+  <a href="mailto:jingbo.wan@sorbonne-universite.fr">jingbo.wan@sorbonne-universite.fr</a>
   researchgate     : "https://www.researchgate.net/profile/Jingbo-Wan-2"
   uri              :
   bitbucket        :
