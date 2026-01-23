@@ -177,24 +177,26 @@ I have co-organized the following student seminars at Columbia University:
 
 ## 🎤 Invited Talks
 
-Selected invited talks and workshops:
+**Selected invited talks and workshops**
 
 <ul style="font-size:90%">
-<li>Analysis Seminar – AMSS (Virtual), Apr 2025</li>
-<li>Hyperbolic & Dispersive Equations on Curved Geometries – SCGP, Apr 2025</li>
-<li>Lehigh Geometry Seminar (Virtual), Jan 2025</li>
-<li>Mathematical GR and Hyperbolic PDE Seminar (Virtual), Sep 2024</li>
-<li>Harmonic Analysis and Differential Equations Seminar – UC Berkeley, Sep 2024</li>
-<li>Mini-Workshop in Geometric Analysis – SUSTech, Aug 2024</li>
-<li>Seminar on Pure Mathematics – HKUST, Aug 2024</li>
-<li>Topics in General Relativity – Münster University, Jul 2024</li>
-<li>Westlake Geometric Analysis Seminar (Online), Apr 2024</li>
-<li>BIMCR GA Seminar (Online), Mar 2024</li>
-<li>CUNY GA Seminar, Sep 2023</li>
-<li>CUHK GA Seminar, Aug 2023</li>
-<li>MIST Workshop – CUHK, Aug 2023</li>
-<li>Joint GA Seminar – CUHK, Jun 2023</li>
-<li>Columbia GR & GA Seminar, Oct 2022</li>
+<li><strong>ICCM 2025</strong>, Shanghai, Jan 2026 &mdash; <em>Formation of Multiple Black Holes from Cauchy Data</em></li>
+<li><strong>GAPDE Seminar</strong>, Cambridge, Nov 2025 &mdash; <em>Formation of Multiple Black Holes from Cauchy Data</em></li>
+<li><strong>Analysis Seminar</strong>, AMSS (Virtual), Apr 2025 &mdash; <em>Hyperbolic Estimates for Nonlinear Stability of Subextremal Reissner&ndash;Nordstr&ouml;m</em></li>
+<li><strong>Hyperbolic &amp; Dispersive Equations on Curved Geometries</strong>, SCGP, Apr 2025 &mdash; <em>Hyperbolic Estimates for Nonlinear Stability of Subextremal Reissner&ndash;Nordstr&ouml;m</em></li>
+<li><strong>Lehigh Geometry Seminar</strong> (Virtual), Jan 2025 &mdash; <em>Rigidity of Contracting Maps Between Positively Curved Manifolds</em></li>
+<li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> (Virtual), Sep 2024 &mdash; <em>Axisymmetric Solution of the Teukolsky System</em></li>
+<li><strong>Harmonic Analysis and Differential Equations Seminar</strong>, UC Berkeley, Sep 2024 &mdash; <em>Axisymmetric Solution of the Teukolsky System</em></li>
+<li><strong>Mini-Workshop in Geometric Analysis</strong>, SUSTech, Aug 2024 &mdash; <em>Sharp Interior Gradient Estimate for GMCF in Arbitrary Codimension</em></li>
+<li><strong>Seminar on Pure Mathematics</strong>, HKUST, Aug 2024 &mdash; <em>Sharp Interior Gradient Estimate for GMCF in Arbitrary Codimension</em></li>
+<li><strong>Topics in General Relativity</strong>, University of M&uuml;nster, Jul 2024 &mdash; <em>Axisymmetric Solution of the Teukolsky System</em></li>
+<li><strong>Geometric Analysis Seminar</strong>, Westlake University (Online), Apr 2024 &mdash; <em>Rigidity of Area Non-Increasing Maps</em></li>
+<li><strong>Geometric Analysis Seminar</strong>, BIMCR (Online), Mar 2024 &mdash; <em>Rigidity of Area Non-Increasing Maps</em></li>
+<li><strong>Geometric Analysis Seminar</strong>, CUNY Graduate Center, Sep 2023 &mdash; <em>Rigidity of Contracting Maps Using Harmonic Map Heat Flow</em></li>
+<li><strong>Geometric Analysis Seminar</strong>, CUHK, Aug 2023 &mdash; <em>Short Course on Semilinear Wave Equations on Black Holes</em></li>
+<li><strong>MIST Workshop on Geometry</strong>, CUHK, Aug 2023 &mdash; <em>Rigidity of Contracting Maps Using Harmonic Map Heat Flow</em></li>
+<li><strong>Joint Geometric Analysis Seminar</strong>, CUHK, Jun 2023 &mdash; <em>Wave Equations on Black Holes</em></li>
+<li><strong>General Relativity &amp; Geometric Analysis Seminar</strong>, Columbia University, Oct 2022 &mdash; <em>The Existence of a Black Hole Due to Condensation of Matter</em></li>
 </ul>
 
 More details: [**Talks**](https://jingbowanmath.github.io/talks/)
