@@ -203,7 +203,7 @@ More details: [**Talks**](https://jingbowanmath.github.io/talks/)
 
 📘 **Short Courses**:
 <ul style="font-size:90%">
-<li><em>On the Formation of Trapped Surfaces</em>, CUHK (Aug 2024)</li>
+<li><em>On the Formation of Trapped Surfaces</em>, CUHK (Aug 2025)</li>
 <li><em>Semi-linear Wave Equation on Black Holes</em>, CUHK (Aug 2023)</li>
 </ul>
 
