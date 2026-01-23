@@ -188,7 +188,7 @@ I have co-organized the following student seminars at Columbia University:
 <li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> (Virtual), Sep 2024 &mdash; <em>Axisymmetric Solution of the Teukolsky System</em></li>
 <li><strong>Harmonic Analysis and Differential Equations Seminar</strong>, UC Berkeley, Sep 2024 &mdash; <em>Axisymmetric Solution of the Teukolsky System</em></li>
 <li><strong>Mini-Workshop in Geometric Analysis</strong>, SUSTech, Aug 2024 &mdash; <em>Sharp Interior Gradient Estimate for GMCF in Arbitrary Codimension</em></li>
-<li><strong>Seminar on Pure Mathematics</strong>, HKUST, Aug 2024 &mdash; <em>Sharp Interior Gradient Estimate for GMCF in Arbitrary Codimension</em></li>
+<li><strong>Seminar on Pure Mathematics</strong>, HKUST, Aug 2024 &mdash; <em>Rigidity of contracting map using harmonic map heat flow</em></li>
 <li><strong>Topics in General Relativity</strong>, University of M&uuml;nster, Jul 2024 &mdash; <em>Axisymmetric Solution of the Teukolsky System</em></li>
 <li><strong>Geometric Analysis Seminar</strong>, Westlake University (Online), Apr 2024 &mdash; <em>Rigidity of Area Non-Increasing Maps</em></li>
 <li><strong>Geometric Analysis Seminar</strong>, BIMCR (Online), Mar 2024 &mdash; <em>Rigidity of Area Non-Increasing Maps</em></li>
