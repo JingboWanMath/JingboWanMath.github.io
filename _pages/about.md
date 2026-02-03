@@ -31,6 +31,13 @@ See the full list on the [**Publications**](https://jingbowanmath.github.io/publ
 
 <ol>
 <li>
+  (with Dawei Shen)  
+  <em>Vacuum initial data with minimal decay and borderline decay</em>,  
+  arXiv:2602.01557 (2026). <strong>[preprint]</strong>
+  <a href="https://arxiv.org/abs/2602.01557">arXiv</a>
+</li>
+  
+<li>
 (with Dawei Shen)  
 <em>Cauchy Data for Formation of Multiple Black Holes with Prescribed ADM Parameters</em>,  
 arXiv:2601.01517 (2026). <strong>[preprint]</strong>
