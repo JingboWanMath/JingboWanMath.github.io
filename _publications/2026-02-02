@@ -1,0 +1,30 @@
+---
+title: "Vacuum initial data with minimal decay and borderline decay"
+authors:
+  - name: "D. Shen"
+    url: "https://sites.google.com/view/daweishen/home"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+collection: publications
+date: 2026-02-02
+
+area: gr
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2602.01557"
+pdfurl: "https://arxiv.org/pdf/2602.01557.pdf"
+arxiv: "2602.01557"
+
+excerpt: "Vacuum asymptotically flat initial data at minimal and borderline decay thresholds via conical solution operators."
+
+abstract: >
+  In this note, we show that the conical solution-operator method of Mao-Tao in
+  [Localized initial data for Einstein equations] applies to a simple construction
+  of vacuum asymptotically flat initial data at minimal and borderline decay
+  thresholds, corresponding to the global and exterior stability of Minkowski
+  spacetime proved by the first named author in [Global stability of Minkowski
+  spacetime with minimal decay] and [Exterior stability of Minkowski spacetime
+  with borderline decay].
+---
