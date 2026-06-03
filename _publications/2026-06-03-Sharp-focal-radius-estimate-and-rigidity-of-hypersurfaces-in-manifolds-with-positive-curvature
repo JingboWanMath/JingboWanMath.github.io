@@ -1,0 +1,39 @@
+---
+title: "Sharp focal radius estimate and rigidity of hypersurfaces in manifolds with positive curvature"
+authors:
+  - name: "T.-K. A. Chow"
+    url: "https://sites.google.com/view/aaronchow/home/"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+collection: publications
+date: 2026-06-01
+
+area: dg
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2606.02829"
+pdfurl: "https://arxiv.org/pdf/2606.02829.pdf"
+arxiv: "2606.02829"
+
+excerpt: "A sharp Clifford-threshold focal-radius estimate and rigidity theorem for hypersurfaces in positively curved manifolds."
+
+abstract: >
+  We prove a sharp Clifford-threshold focal-radius estimate and rigidity for
+  immersed hypersurfaces. Under a \(p\)-form curvature condition, formulated by
+  the Weitzenböck curvature term together with \(\mathrm{Ric}_p \ge p\), any
+  closed two-sided immersion \(F:\Sigma^m \to M^{m+1}\) with
+  \(b_p(\Sigma;\mathbb{R}) \neq 0\) and \(1 \le p \le m/2\) satisfies
+  \(r_f(F,M) \le \pi/4\). The equality case is rigid: if the ambient manifold
+  is complete, equality forces the hypersurface to be locally the Clifford
+  hypersurface
+  \(S^p(1/\sqrt{2}) \times S^{m-p}(1/\sqrt{2}) \subset S^{m+1}(1)\); if the
+  ambient manifold is compact and connected, it is a spherical space form. The
+  curvature condition follows from \(\sec \ge 1\) for \(p=1\), from normalized
+  \(\mathrm{PIC}_1 \ge 1\) for \(p=2\), and from curvature operator bounded
+  below by one in all degrees. By quotient lifting and the Hopf fibrations, we
+  also obtain focal-radius estimates in \(\mathbb{C}P^n\) and
+  \(\mathbb{H}P^n\), with projective Clifford rigidity, without any
+  Betti-number assumption.
+---
