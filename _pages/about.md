@@ -31,6 +31,13 @@ See the full list on the [**Publications**](https://jingbowanmath.github.io/publ
 
 <ol>
 <li>
+(with Allen Juntao Fang and Elena Giorgi)  
+<em>Wave Decay and Horizon Instability on Strongly Charged Extremal Kerr–Newman Black Holes</em>,  
+arXiv:2606.29956 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2606.29956">arXiv</a>
+</li>
+  
+<li>
   (with Dawei Shen)  
   <em>Vacuum initial data with minimal decay and borderline decay</em>,  
   arXiv:2602.01557 (2026). <strong>[preprint]</strong>
@@ -89,7 +96,7 @@ arXiv:2412.20119 (2024), submitted.
 <li>
 (with Elena Giorgi)  
 <em>Boundedness and Decay for the Teukolsky System in Kerr–Newman Spacetime II</em>,  
-<em>Adv. Theor. Math. Phys.</em>.
+<em>Adv. Theor. Math. Phys.</em>  pp. 295-333 Volume 30 (2026) Number 2.
 <a href="https://arxiv.org/abs/2407.10750">arXiv</a>
 </li>
 
@@ -114,7 +121,7 @@ arXiv:2606.02829 (2026). <strong>[preprint]</strong>
 <li>
 (with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang)  
 <em>Constructing Entire Minimal Graphs by Evolving Planes</em>,  
-arXiv:2510.24978 (2025). <strong>[preprint]</strong>
+<em>Calc. Var. Partial Differ. Equ.</em>  Volume 65, article number 196 (2026)
 <a href="https://arxiv.org/abs/2510.24978">arXiv</a>
 </li>
   
@@ -134,7 +141,7 @@ submitted.
 <li>
 (with Man-Chun Lee)  
 <em>Rigidity of Contracting Maps via Harmonic Map Heat Flow</em>,  
-<em>Proc. Amer. Math. Soc.</em> (to appear).
+<em>Proc. Amer. Math. Soc.</em> 154 (2026), 3107-3118
 <a href="https://arxiv.org/abs/2306.12258">arXiv</a>   
 </li>
 
