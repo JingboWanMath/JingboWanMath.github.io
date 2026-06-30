@@ -201,6 +201,13 @@ I have co-organized the following student seminars at Columbia University:
 **Selected invited talks and workshops**
 
 <ul style="font-size:90%">
+<li><strong>LJLL Seminar on Mathematical General Relativity</strong>, Sorbonne, Apr 2026 &mdash; <em>Wave decay on slowly-rotating extremal Kerr&ndash;Newman black holes</em></li>
+<li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> (Virtual), Apr 2026 &mdash; <em>Vacuum asymptotically flat initial data at minimal and borderline decay</em></li>
+<li><strong>AMS Congress</strong>, Boston College, Mar 2026 &mdash; <em>Cauchy Data for Formation of Multiple Black Holes with Prescribed ADM Parameters</em></li>
+<li><strong>Princeton Analysis Seminar</strong>, Princeton, Mar 2026 &mdash; <em>Constructing Cauchy Data for Multiple Black Hole Formation</em></li>
+<li><strong>TSIMF Sanya Waves 2026</strong>, Sanya, Feb 2026 &mdash; <em>Formation of Multiple Black Holes from Cauchy Data</em></li>
+<li><strong>Department of Mathematics Seminar</strong>, HKUST, Feb 2026 &mdash; <em>Entire minimal graphs from an evolving-plane ansatz</em></li>
+<li><strong>Department of Mathematics Seminar</strong>, HKUST, Feb 2026 &mdash; <em>Vacuum asymptotically flat initial data at minimal and borderline decay via conical solution operators</em></li>
 <li><strong>ICCM 2025</strong>, Shanghai, Jan 2026 &mdash; <em>Formation of Multiple Black Holes from Cauchy Data</em></li>
 <li><strong>GAPDE Seminar</strong>, Cambridge, Nov 2025 &mdash; <em>Formation of Multiple Black Holes from Cauchy Data</em></li>
 <li><strong>Analysis Seminar</strong>, AMSS (Virtual), Apr 2025 &mdash; <em>Hyperbolic Estimates for Nonlinear Stability of Subextremal Reissner&ndash;Nordstr&ouml;m</em></li>
@@ -225,6 +232,7 @@ More details: [**Talks**](https://jingbowanmath.github.io/talks/)
 
 📘 **Short Courses**:
 <ul style="font-size:90%">
+<li><em>An Introduction to the Geometry of Null Hypersurfaces in General Relativity</em>, USTC (Jun 2026)</li>
 <li><em>On the Formation of Trapped Surfaces</em>, CUHK (Aug 2025)</li>
 <li><em>Semi-linear Wave Equation on Black Holes</em>, CUHK (Aug 2023)</li>
 </ul>
