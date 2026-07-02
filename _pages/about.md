@@ -113,6 +113,13 @@ arXiv:2412.20119 (2024), submitted.
 <ol>
 <li>
 (with Tsz-Kiu Aaron Chow)  
+<em>Maximal Normal Curvature and Veronese Rigidity</em>,  
+arXiv:2607.00949 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2607.00949">arXiv</a>
+</li>
+  
+<li>
+(with Tsz-Kiu Aaron Chow)  
 <em>Sharp Focal Radius Estimate and Rigidity of Hypersurfaces in Manifolds with Positive Curvature</em>,  
 arXiv:2606.02829 (2026). <strong>[preprint]</strong>
 <a href="https://arxiv.org/abs/2606.02829">arXiv</a>
