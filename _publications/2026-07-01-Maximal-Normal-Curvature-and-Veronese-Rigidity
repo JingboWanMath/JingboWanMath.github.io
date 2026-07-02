@@ -1,0 +1,46 @@
+---
+title: "Maximal Normal Curvature and Veronese Rigidity"
+authors:
+  - name: "T.-K. A. Chow"
+    url: "https://sites.google.com/view/tsz-kiu-aaron-chow/"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+collection: publications
+date: 2026-07-01
+
+area: ga
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2607.00949"
+pdfurl: "https://arxiv.org/pdf/2607.00949.pdf"
+arxiv: "2607.00949"
+
+excerpt: "A sharp Veronese rigidity theorem for closed submanifolds of the Euclidean unit ball under harmonic almost Hermitian or almost quaternion-Hermitian structure assumptions."
+
+abstract: >
+  We prove a sharp Veronese rigidity theorem for closed immersed submanifolds
+  of the Euclidean unit ball under intrinsic harmonic-structure assumptions.
+  For an isometric immersion \(F:(\Sigma,g)\to \overline{B}^{\,1}\), define the
+  maximal normal curvature by
+  \[
+      \kappa(F)
+      :=
+      \sup_{x\in\Sigma}\sup_{\substack{v\in T_x\Sigma\\ |v|_g=1}}
+      |A_x(v,v)|.
+  \]
+
+  If \(\Sigma^{2n}\) is almost Hermitian with harmonic fundamental two-form, or
+  \(\Sigma^{4n}\) is almost quaternion-Hermitian with harmonic fundamental
+  four-form, \(n\ge 2\), then
+  \[
+      \kappa(F)\ge \sqrt{\frac{2n}{n+1}}.
+  \]
+
+  In the equality case the harmonic form is parallel and the immersion is, up
+  to a totally geodesic inclusion, the standard complex or quaternionic
+  Veronese embedding of projective spaces. The key input is a Bochner--Gauss
+  mechanism that turns the Bochner curvature term of the harmonic form into a
+  sharp algebraic estimate for the shape operators.
+---
