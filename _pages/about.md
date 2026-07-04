@@ -239,7 +239,11 @@ More details: [**Talks**](https://jingbowanmath.github.io/talks/)
 
 📘 **Short Courses**:
 <ul style="font-size:90%">
-<li><em>An Introduction to the Geometry of Null Hypersurfaces in General Relativity</em>, USTC (Jun 2026)</li>
+<li>
+  <em>An Introduction to the Geometry of Null Hypersurfaces in General Relativity</em>
+  (<a href="files/USTC2026summerGR.pdf">lecture notes (PDF)</a>),
+  USTC (Jun 2026)
+</li>
 <li><em>On the Formation of Trapped Surfaces</em>, CUHK (Aug 2025)</li>
 <li><em>Semi-linear Wave Equation on Black Holes</em>, CUHK (Aug 2023)</li>
 </ul>
