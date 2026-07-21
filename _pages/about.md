@@ -112,6 +112,13 @@ arXiv:2412.20119 (2024), submitted.
 
 <ol>
 <li>
+(with Jianchun Chu and Man-Chun Lee)  
+<em>Rigidity of Positive Mass Theorem with Fast Metric Decay</em>,  
+arXiv:2607.17236 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2607.17236">arXiv</a>
+</li>
+  
+<li>
 (with Tsz-Kiu Aaron Chow)  
 <em>Maximal Normal Curvature and Veronese Rigidity</em>,  
 arXiv:2607.00949 (2026). <strong>[preprint]</strong>
