@@ -1,0 +1,26 @@
+---
+title: "Rigidity of positive mass theorem with fast metric decay"
+authors:
+  - name: "J.-Chu"
+    url: "https://math.pku.edu.cn/teachers/jianchunchu/"
+  - name: "M.-C. Lee"
+    url: "https://sites.google.com/view/mcleemath/home"  
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+collection: publications
+date: 2026-07-19
+
+area: ga
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2607.17236"
+pdfurl: "https://arxiv.org/pdf/2607.17236.pdf"
+arxiv: "2607.17236"
+
+excerpt: "Rigidity results for the positive mass theorem under fast metric decay, establishing Gromov's conjecture in higher dimensions."
+
+abstract: >
+  In this work, we consider metrics on Euclidean space with nonnegative scalar curvature and rapid decay at infinity. We show that, in dimensions four and higher, any such metric is necessarily flat if its decay rate exceeds that of the Schwarzschild metric. This complements recent works by Mazurowski-Yao and You-Zhang, thereby establishing Gromov's conjecture on the rigidity of the positive mass theorem under fast metric decay in all dimensions.
+---
