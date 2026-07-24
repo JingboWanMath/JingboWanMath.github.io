@@ -13,7 +13,7 @@ redirect_from:
 
 🎓 I received my **PhD in Mathematics from Columbia University (2025)**, where I was advised by <a href="http://www.math.columbia.edu/~mtwang/">Mu-Tao Wang</a> and <a href="http://www.math.columbia.edu/~egiorgi/">Elena Giorgi</a>.
 
-🏫 I completed my undergraduate studies at **The Hong Kong University of Science and Technology (2020)**, mentored by <a href="https://frederickfong.me">Frederick Fong</a>.
+🏫 I completed my undergraduate studies at **The Hong Kong University of Science and Technology (2020)**.
 
 ---
 
