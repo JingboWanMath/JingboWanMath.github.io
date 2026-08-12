@@ -112,6 +112,12 @@ arXiv:2412.20119 (2024), submitted.
 
 <ol>
 <li>
+<em>Scalar Curvature Flexibility in the Riemannian Burnett Compactness Class</em>,  
+arXiv:2608.08707 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2608.08707">arXiv</a>
+</li>
+  
+<li>
 (with Jianchun Chu and Man-Chun Lee)  
 <em>Rigidity of Positive Mass Theorem with Fast Metric Decay</em>,  
 arXiv:2607.17236 (2026). <strong>[preprint]</strong>
