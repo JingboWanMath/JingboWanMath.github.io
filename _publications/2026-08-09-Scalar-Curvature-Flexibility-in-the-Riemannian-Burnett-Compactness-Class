@@ -1,0 +1,22 @@
+---
+title: "Scalar Curvature Flexibility in the Riemannian Burnett Compactness Class"
+authors:
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+collection: publications
+date: 2026-08-09
+
+area: ga
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2608.08707"
+pdfurl: "https://arxiv.org/pdf/2608.08707.pdf"
+arxiv: "2608.08707"
+
+excerpt: "Approximating metrics with scalar curvature lower bounds by metrics with constant scalar curvature, showing sharp flexibility of constant scalar curvature equation; proving and strengthening the Riemannian reverse-Burnett conjecture of Huneau and Luk."
+
+abstract: >
+  Let $M$ be a connected smooth $n$-manifold without boundary, where $n \ge 3$, and let $\kappa \in \mathbb{R}$, with $\kappa \le 0$ if $M$ is open. We prove that every smooth Riemannian metric $g_0$ with $\mathrm{Scal}_{g_0} \ge \kappa$ is a locally uniform limit of smooth Riemannian metrics $g_i$ with $\mathrm{Scal}_{g_i} = \kappa$ that are locally uniformly bounded in $W^{1,\infty}$. As a corollary, combining this with Gromov's $C^0$-stability theorem, we obtain the perhaps surprising identity $\overline{\{g : \mathrm{Scal}_g = \kappa\}}^{C^{0,\alpha}_{\mathrm{loc}}} = \{g : \mathrm{Scal}_g \ge \kappa\}$ for all $\alpha \in (0,1)$. The restriction $\alpha < 1$ is sharp. At $\kappa = 0$, this proves and strengthens the Riemannian reverse-Burnett conjecture of Huneau and Luk.
+---
