@@ -1,0 +1,28 @@
+---
+title: "Stability and Area-Minimizing Property of Higher-Dimensional Helicoids"
+authors:
+  - name: "C.-J. Tsai"
+    url: "https://homepage.ntu.edu.tw/~cjtsai/"
+  - name: "M.-P. Tsui"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+  - name: "M.-T. Wang"
+    url: "https://sites.google.com/view/columbia-prof-mutaowang/"
+
+collection: publications
+date: 2026-09-10
+
+area: ga
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2609.11481"
+pdfurl: "https://arxiv.org/pdf/2609.11481.pdf"
+arxiv: "2609.11481"
+
+excerpt: "Sharp stability and area-minimizing classifications of higher-dimensional helicoids, revealing a stability threshold at dimension four and a parity-dependent area-minimizing property proved by an explicit calibration and competitor."
+
+abstract: >
+  For each integer $k\ge1$, we study the $(k+1)$-dimensional helicoid $H_k\subset\mathbb{R}^{2k+1}$ parametrized by $(u_1,\ldots,u_k,s)\mapsto(u_1e^{is},\ldots,u_ke^{is},s)\in\mathbb{C}^k\times\mathbb{R}\cong\mathbb{R}^{2k+1}$. These helicoids form a basic and distinguished family of complete, properly embedded minimal submanifolds diffeomorphic to $\mathbb{R}^{k+1}$, and provide natural higher-dimensional analogues of the classical helicoid in $\mathbb{R}^3$. We completely determine their stability: $H_k$ is stable for $k\ge3$ and unstable for $k\le2$. The sharp transition at $k=3$ is particularly striking: while the classical helicoid ($k=1$) and its first higher-dimensional analogue ($k=2$) are unstable, the four-dimensional helicoid $H_3\subset\mathbb{R}^7$ is already stable. For $k\ge3$, we also determine their area-minimizing property: $H_k$ is area-minimizing when $k$ is even and not area-minimizing when $k$ is odd. The area-minimizing result is proved by constructing an explicit calibration, while the non-area-minimizing result follows from an explicit competitor. In particular, for every even $k\ge4$, the $(k+1)$-dimensional helicoid $H_k$ is an entire minimal graph in $\mathbb{R}^{2k+1}$ that is area-minimizing.
+---
