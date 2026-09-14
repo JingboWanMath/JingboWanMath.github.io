@@ -112,6 +112,20 @@ arXiv:2412.20119 (2024), submitted.
 
 <ol>
 <li>
+(with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang)
+<em>Stability and Area-Minimizing Property of Higher-Dimensional Helicoids</em>,
+arXiv:2609.11481 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2609.11481">arXiv</a>
+</li>
+
+<li>
+(with Tsz-Kiu Aaron Chow)
+<em>Small Normal Curvature and Three-Manifold Topology</em>,
+arXiv:2608.18002 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2608.18002">arXiv</a>
+</li>
+
+<li>
 <em>Scalar Curvature Flexibility in the Riemannian Burnett Compactness Class</em>,  
 arXiv:2608.08707 (2026). <strong>[preprint]</strong>
 <a href="https://arxiv.org/abs/2608.08707">arXiv</a>
