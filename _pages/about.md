@@ -235,6 +235,8 @@ I have co-organized the following student seminars at Columbia University:
 **Selected invited talks and workshops**
 
 <ul style="font-size:90%">
+<li><strong>Nonlinear PDE Working Group</strong>, University of Bordeaux, Sep 2026 &mdash; <em>Scalar curvature rigidity and flexibility: two problems motivated by general relativity</em></li>
+<li><strong>Seminar on Pure Mathematics</strong>, HKUST, Aug 2026 &mdash; <em>Scalar curvature rigidity and flexibility: two problems motivated by general relativity</em></li>  
 <li><strong>LJLL Seminar on Mathematical General Relativity</strong>, Sorbonne, Apr 2026 &mdash; <em>Wave decay on slowly-rotating extremal Kerr&ndash;Newman black holes</em></li>
 <li><strong>Mathematical GR and Hyperbolic PDE Seminar</strong> (Virtual), Apr 2026 &mdash; <em>Vacuum asymptotically flat initial data at minimal and borderline decay</em></li>
 <li><strong>AMS Congress</strong>, Boston College, Mar 2026 &mdash; <em>Cauchy Data for Formation of Multiple Black Holes with Prescribed ADM Parameters</em></li>
