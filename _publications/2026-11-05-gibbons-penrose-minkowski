@@ -1,0 +1,28 @@
+---
+title: "The Gibbons–Penrose inequality in Minkowski spacetime"
+authors:
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+  - name: "Y. Wang"
+    url: "https://www.math.princeton.edu/people/yipeng-wang"
+
+collection: publications
+date: 2026-11-05
+
+area: ga
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2611.08609"
+pdfurl: "https://arxiv.org/pdf/2611.08609.pdf"
+arxiv: "2611.08609"
+
+excerpt: "The Gibbons–Penrose inequality in Minkowski spacetime under non-negativity of the past null second fundamental form, proved by an argument motivated by the Alexandrov–Bakelman–Pucci technique."
+
+abstract: >
+  We prove the Gibbons–Penrose inequality for smooth closed spacelike
+  codimension-two submanifolds of Minkowski spacetime whose past null second
+  fundamental form is non-negative. The proof is motivated by the
+  Alexandrov–Bakelman–Pucci technique.
+---
