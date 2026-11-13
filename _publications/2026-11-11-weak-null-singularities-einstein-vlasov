@@ -1,0 +1,39 @@
+---
+title: "Weak null singularities for the Einstein–Vlasov system"
+authors:
+  - name: "D. Shen"
+    url: "https://sites.google.com/view/daweishen/home"
+  - name: "Y. Song"
+    url: "https://mathematics.stanford.edu/people/yuefeng-song"
+  - name: "J. Wan"
+    url: "https://jingbowanmath.github.io/"
+
+collection: publications
+date: 2026-11-11
+
+area: gr
+status: preprint
+
+venue: ""
+
+paperurl: "https://doi.org/10.48550/arXiv.2611.15318"
+pdfurl: "https://arxiv.org/pdf/2611.15318.pdf"
+arxiv: "2611.15318"
+
+excerpt: "Formation and stability of weak null singularities for the massive and massless Einstein–Vlasov systems without symmetry assumptions, with continuously extendible metrics and bounded Ricci curvature."
+
+abstract: >
+  We study the formation and stability of weak null singularities for solutions
+  to the massive and massless Einstein–Vlasov systems without symmetry
+  assumptions. Extending previous results of Luk in the vacuum setting, we
+  establish the existence of spacetimes arising from characteristic initial
+  data that develop a singular null boundary while remaining extendible with
+  a continuous metric. For both massive and massless particles, the
+  energy-momentum tensor and Ricci curvature remain bounded and extend
+  continuously to the singular boundary. For genuinely singular initial data,
+  the Christoffel symbols in the original double-null coordinates fail to be
+  locally square integrable near the boundary. We introduce new commutator
+  vector fields that avoid both derivative loss and the most singular
+  curvature component. Under additional curvature assumptions, we also prove
+  Lipschitz inextendibility across the singular null boundary.
+---
