@@ -31,6 +31,13 @@ See the full list on the [**Publications**](https://jingbowanmath.github.io/publ
 
 <ol>
 <li>
+(with Dawei Shen and Yuefeng Song)  
+<em>Weak Null Singularities for the Einstein–Vlasov System</em>,  
+arXiv:2611.15318 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2611.15318">arXiv</a>
+</li>
+  
+<li>
 (with Allen Juntao Fang and Elena Giorgi)  
 <em>Wave Decay and Horizon Instability on Strongly Charged Extremal Kerr–Newman Black Holes</em>,  
 arXiv:2606.29956 (2026). <strong>[preprint]</strong>
@@ -111,6 +118,13 @@ arXiv:2412.20119 (2024), submitted.
 ### Geometric Analysis
 
 <ol>
+<li>
+(with Yipeng Wang)  
+<em>The Gibbons–Penrose Inequality in Minkowski Spacetime</em>,  
+arXiv:2611.08609 (2026). <strong>[preprint]</strong>
+<a href="https://arxiv.org/abs/2611.08609">arXiv</a>
+</li>
+
 <li>
 (with Chung-Jun Tsai, Mao-Pei Tsui, and Mu-Tao Wang)
 <em>Stability and Area-Minimizing Property of Higher-Dimensional Helicoids</em>,
